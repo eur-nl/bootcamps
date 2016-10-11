@@ -53,14 +53,12 @@ CSV files
 
 Pandas
 
-Working with text files
+Visualizations
 
 Exercises-2
 
 Day 3
 ---
-
-Pandas and SQLite (recap)
 
 SQLite
 
