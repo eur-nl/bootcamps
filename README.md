@@ -31,40 +31,32 @@ Goals
 Content
 ===
 
-Preliminary content of the bootcamps is as follows:
+Preliminary content of the bootcamps can be as follows:
 
 Day 1
 ---
 
 Intro, short history of Python, characteristics of Python
-
 Jupyter Notebooks
 
 Python basics
+Python more in depth: Numbers & text
 
-Python more in depth
-
-Exercises-1
 
 Day 2
 ---
 
-CSV files
+CSV files, Pandas, data cleaning
+Text analysis with NLTK and/or textBlob, data cleaning
 
-Pandas
+SQL
+BigQuery, visualizations
 
-Visualizations
-
-Exercises-2
 
 Day 3
 ---
 
-SQLite
-
-BigQuery
-
-Exercises-3
+Morning: Wrap-up, evaluation, etc.
 
 Extras
 ---
