@@ -39,14 +39,41 @@ Day 1
 Intro, short history of Python, characteristics of Python
 Jupyter Notebooks
 
-Python basics
-Python more in depth: Numbers & text
+Python basics I
 
+  - simple expressions
+  - assignment statement
+  - conditional expressions
+  - sets
+  - lists
+  - tuples
+  - and other things to iterate over
+  - dictionaries, comprehensions
+  - defining one-line procedures
+  
+Python basics II
+
+  - Using existing modules
+  - Creating your own modules
+  - Loops and conditional statements
+  - Grouping in Python using indentation
+  - Breaking out of a loop
+  - Reading from a file
+  
+Datalab I: number guessing games (random, keeping track of scores, etc.)
+
+Datalab II: cookbook.py (wordfrequency in Jane Austen's novel "Emma")
+  
+Python more in depth: More on numbers & text
+
+Datalab III:
+
+Aggregating data: Scraping, etc.
 
 Day 2
 ---
 
-CSV files, Pandas, data cleaning
+CSV files, Pandas, data cleaning: tidy-data
 Text analysis with NLTK and/or textBlob, data cleaning
 
 SQL
