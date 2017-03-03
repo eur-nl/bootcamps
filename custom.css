@@ -1,0 +1,31 @@
+.output_wrapper, .output {
+    height: auto !important;
+    max-height: 500px;
+}
+.output_scroll {
+    box-shadow: none !important;
+    webkit-box-shadow: none !important;
+}
+
+.rendered_html pre {
+    color: #00F;
+    padding-left: 40px;
+}
+
+.rendered_html  code {
+    color: #00F;
+}
+
+.reveal pre code {
+    background: #FFFFFF;
+    color: #AA5500;
+}
+
+body:after {
+    white-space: pre;
+    position: fixed;
+    top: 1em;
+    left: 1em;
+    font-size: 40px;
+    font-weight: bold;
+}
