@@ -333,63 +333,30 @@
   {
    "cell_type": "markdown",
    "metadata": {
-    "deletable": true,
-    "editable": true,
     "slideshow": {
      "slide_type": "fragment"
     }
    },
    "source": [
-    "One of the coolest things to do with lists are the list comprehensions. We start with a list and do something with each element of a list, or with a selection of some elements of that list."
+    "One of the nice things of lists is that one can easily process all or a selection of elements of a list. There are various ways to accomplish this. One of these are so-called list comprehensions."
    ]
   },
   {
    "cell_type": "code",
    "execution_count": null,
    "metadata": {
-    "collapsed": false,
-    "deletable": true,
-    "editable": true,
+    "collapsed": true,
     "slideshow": {
      "slide_type": "fragment"
     }
    },
    "outputs": [],
    "source": [
-    "numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]\n",
+    "numbers = [1, 2, 3, 4, 5, 6, 7, 8]\n",
     "numbers_sq = [x * x for x in numbers]\n",
     "print(numbers_sq)\n",
-    "numbers_even = [x for x in numbers if x % 2 == 0]\n",
-    "print(numbers_even)"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {
-    "deletable": true,
-    "editable": true,
-    "slideshow": {
-     "slide_type": "fragment"
-    }
-   },
-   "source": [
-    "\"Double list comprehensions\" iterate over multiple lists using two control varaiables, like so:"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": false,
-    "deletable": true,
-    "editable": true,
-    "slideshow": {
-     "slide_type": "fragment"
-    }
-   },
-   "outputs": [],
-   "source": [
-    "[x * y for x in [1, 2, 3] for y in [10, 20, 30]]"
+    "numbers_even_sq = [x * x for x in numbers if x % 2 == 0]\n",
+    "print(numbers_even_sq)"
    ]
   },
   {

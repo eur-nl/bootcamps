@@ -6,6 +6,7 @@ The intro directory contains the following files:
 ## Python as a calculator (Numbers)
 ## Python and strings
     
-# 02.ipynb (Lists)
+# 02.ipynb (Lists, Tuples, and Dictionaries)
 
-# 02A.ipynb (Lists)
+# 02b.ipynb (Sets)
+
