@@ -21,6 +21,21 @@
     color: #AA5500;
 }
 
+div.text_cell_render.border-box-sizing.rendered_html {    
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+div.text_cell_render.border-box-sizing.rendered_html H1,         
+div.text_cell_render.border-box-sizing.rendered_html H2,   
+div.text_cell_render.border-box-sizing.rendered_html H3 { 
+    padding-bottom: 10px;
+}
+
+.reveal p {
+    margin: 10px 0;
+}
+
 body:after {
     white-space: pre;
     position: fixed;
