@@ -2,4 +2,5 @@
 .ipynb_checkpoints/
 .gitattributes
 output/*
-*.html
+**/*.html
+**/*.nbconvert.ipynb
