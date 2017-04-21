@@ -77,3 +77,8 @@ The intro directory contains the following files:
   - Files
   - Pickling
   - JSON
+  
+  Kahoot :
+  https://play.kahoot.it/#/k/820a2c63-20da-428f-93f0-4c4d7361347e
+  https://play.kahoot.it/#/k/3b423235-f0db-4e81-89fd-530939f080f6
+  
