@@ -1,0 +1,20 @@
+We start our exploration of the Python language with a simple number
+guessing game.
+
+Underneath you will find elements of the Python code in alphabetical
+order. Read them carefully and explain in your own words what you
+think the Python code fragment accomplishes. Write it behind the code
+fragments.
+
+Hint: You can use the Python help function form the so-called Python
+REPL, like so: ?int(). When in doubt, try things out in the REPL.
+
+else:
+g = input("Guess the number: ")
+guess = int(g)
+if guess == 5:
+print("Game over!")
+print("Welcome!")
+print("You lose:-(")
+print("You win!")
+
