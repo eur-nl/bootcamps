@@ -12,7 +12,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 1;0;Astor, Col. John Jacob;male;47;1;0;PC 17757;227,5250;C62 C64;C;;124;New York, NY
 1;1;Astor, Mrs. John Jacob (Madeleine Talmadge Force);female;18;1;0;PC 17757;227,5250;C62 C64;C;4;;New York, NY
 1;1;Aubart, Mme. Leontine Pauline;female;24;0;0;PC 17477;69,3000;B35;C;9;;Paris, France
-1;1;"Barber, Miss. Ellen ""Nellie""";female;26;0;0;19877;78,8500;;S;6;;
+1;1;Barber, Miss. Ellen Nellie;female;26;0;0;19877;78,8500;;S;6;;
 1;1;Barkworth, Mr. Algernon Henry Wilson;male;80;0;0;27042;30,0000;A23;S;B;;Hessle, Yorks
 1;0;Baumann, Mr. John D;male;;0;0;PC 17318;25,9250;;S;;;New York, NY
 1;0;Baxter, Mr. Quigg Edmond;male;24;0;1;PC 17558;247,5208;B58 B60;C;;;Montreal, PQ
