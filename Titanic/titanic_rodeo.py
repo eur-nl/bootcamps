@@ -99,12 +99,19 @@ years of age. That brings us to the question how things are within the Age colum
 with the ages of the survivors? 
 """
 
+"""
+In the Titanic data science notebook the survival of the eldest passenger
+(80) is made into an observation: "Oldest passengers (Age = 80) survived".
+As we will see below the eldest person aboard did not survive. Being male
+*and* travelling third class is, as we will see, not a ticket to survival.
+"""
+
 # So let's have a look at the names of the survivors
 df_train[df_train['Survived']==1]['Name']
 
 # And check their age mentioned in our file, against the data of the Titanic website
 # The first three all check out ok, so we guess that the Age entry for Mr. Barkworth was a simple mistake
-# We correct the mistake in train.csv our csv file
+# We correct the mistake in train.csv, our csv file
 # We load the file again; run describe: Our eldest passenger now is 74. He did
 # not survive the disaster: Johan Svensson.
 
@@ -114,5 +121,53 @@ example: Is the chance surviving the disaster better for women than for men?
 """
 
 """
-Let's use a simple graph to check 
+Let's use a simple graph to check the survival rate of men against women
+"""
+df_train[['Sex', 'Survived']].groupby(['Sex'], as_index = False).mean().sort_values(by = 'Survived', ascending = False)
+
+"""
+And the relation between Survived and Pclass?
+"""
+df_train[['Pclass', 'Survived']].groupby(['Pclass'], as_index=False).mean().sort_values(by='Survived', ascending=False)
+
+# Pandas offers an even simpler high-level function: crosstab, to quickly
+# check our hunches
+pd.crosstab(df_train['Survived'], df_train['Sex'], margins = True)
+
+pd.crosstab(df_train['Survived'], df_train['Pclass'], margins = True)
+
+# We can visualize the relation 'Survived' versus 'Sex' in a couple of
+# lines
+survived_sex = df_train[df_train['Survived'] == 1]['Sex'].value_counts()
+dead_sex = df_train[df_train['Survived'] == 0]['Sex'].value_counts()
+viz_df = pd.DataFrame([survived_sex, dead_sex])
+viz_df.index = ['Survived', 'Dead']
+viz_df.plot(kind = 'bar', stacked = True, figsize = (15,8))
+
+# Now we correlate survival and age variables
+# But before we can do that we must get rid of the 177 NA's in Age column
+df_train['Age'].fillna(df_train['Age'].median(), inplace=True)
+# Then we can plot the histogram with:
+figure = plt.figure(figsize=(15,8))
+plt.hist([df_train[df_train['Survived']==1]['Age'],
+          df_train[df_train['Survived']==0]['Age']],
+          stacked=True, color = ['g','r'],
+          bins = 30,label = ['Survived','Dead'])
+plt.xlabel('Age')
+plt.ylabel('Number of passengers')
+plt.legend()
+
+# Survived & Fare
+figure = plt.figure(figsize=(15,8))
+plt.hist([df_train[df_train['Survived']==1]['Fare'],
+          df_train[df_train['Survived']==0]['Fare']],
+          stacked=True, color = ['g','r'],
+          bins = 30,label = ['Survived','Dead'])
+plt.xlabel('Fare')
+plt.ylabel('Number of passengers')
+plt.legend()
+
+"""
+Preliminary conclusion: Women and children first and it helped if you were
+travelling first class.
 """
