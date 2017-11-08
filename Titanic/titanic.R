@@ -12,7 +12,7 @@ prop.table(table(df_train$Survived))
 # The majority of people will not survive the disaster
 # Of course our test file did not contain a column "Survived", because we were
 # going to predict that from df_train
-# S, we add that column, "Survived" to our test dataframe
+# So, we add that column, "Survived" to our test dataframe
 df_test$Survived <- rep(0, 418)
 # Next we extract our report on what we can predict
 submit <- data.frame(PassengerId = df_test$PassengerId, Survived = df_test$Survived)
