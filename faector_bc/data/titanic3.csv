@@ -1,6 +1,6 @@
 pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;home.dest
 1;1;Allen, Miss. Elisabeth Walton;female;29;0;0;24160;211,3375;B5;S;2;;St Louis, MO
-1;1;Allison, Master. Hudson Trevor;male;0,9167;1;2;113781;151,5500;C22 C26;S;11;;Montreal, PQ / Chesterville, ON
+1;1;Allison, Master. Hudson Trevor;male;0.9167;1;2;113781;151,5500;C22 C26;S;11;;Montreal, PQ / Chesterville, ON
 1;0;Allison, Miss. Helen Loraine;female;2;1;2;113781;151,5500;C22 C26;S;;;Montreal, PQ / Chesterville, ON
 1;0;Allison, Mr. Hudson Joshua Creighton;male;30;1;2;113781;151,5500;C22 C26;S;;135;Montreal, PQ / Chesterville, ON
 1;0;Allison, Mrs. Hudson J C (Bessie Waldo Daniels);female;25;1;2;113781;151,5500;C22 C26;S;;;Montreal, PQ / Chesterville, ON
@@ -172,7 +172,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 1;1;Ismay, Mr. Joseph Bruce;male;49;0;0;112058;0,0000;B52 B54 B56;S;C;;Liverpool
 1;0;Jones, Mr. Charles Cresson;male;46;0;0;694;26,0000;;S;;80;Bennington, VT
 1;0;Julian, Mr. Henry Forbes;male;50;0;0;113044;26,0000;E60;S;;;London
-1;0;Keeping, Mr. Edwin;male;32,5;0;0;113503;211,5000;C132;C;;45;
+1;0;Keeping, Mr. Edwin;male;32.5;0;0;113503;211,5000;C132;C;;45;
 1;0;Kent, Mr. Edward Austin;male;58;0;0;11771;29,7000;B37;C;;258;Buffalo, NY
 1;0;Kenyon, Mr. Frederick R;male;41;1;0;17464;51,8625;D21;S;;;Southington / Noank, CT
 1;1;Kenyon, Mrs. Frederick R (Marion);female;;1;0;17464;51,8625;D21;S;8;;Southington / Noank, CT
@@ -221,9 +221,9 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 1;1;Omont, Mr. Alfred Fernand;male;;0;0;F.C. 12998;25,7417;;C;7;;Paris, France
 1;1;Ostby, Miss. Helene Ragnhild;female;22;0;1;113509;61,9792;B36;C;5;;Providence, RI
 1;0;Ostby, Mr. Engelhart Cornelius;male;65;0;1;113509;61,9792;B30;C;;234;Providence, RI
-1;0;Ovies y Rodriguez, Mr. Servando;male;28,5;0;0;PC 17562;27,7208;D43;C;;189;?Havana, Cuba
+1;0;Ovies y Rodriguez, Mr. Servando;male;28.5;0;0;PC 17562;27,7208;D43;C;;189;?Havana, Cuba
 1;0;Parr, Mr. William Henry Marsh;male;;0;0;112052;0,0000;;S;;;Belfast
-1;0;Partner, Mr. Austen;male;45,5;0;0;113043;28,5000;C124;S;;166;Surbiton Hill, Surrey
+1;0;Partner, Mr. Austen;male;45.5;0;0;113043;28,5000;C124;S;;166;Surbiton Hill, Surrey
 1;0;Payne, Mr. Vivian Ponsonby;male;23;0;0;12749;93,5000;B24;S;;;Montreal, PQ
 1;0;Pears, Mr. Thomas Clinton;male;29;1;0;113776;66,6000;C2;S;;;Isleworth, England
 1;1;Pears, Mrs. Thomas (Edith Wearne);female;22;1;0;113776;66,6000;C2;S;8;;Isleworth, England
@@ -358,7 +358,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 2;0;Butler, Mr. Reginald Fenton;male;25;0;0;234686;13,0000;;S;;97;Southsea, Hants
 2;0;Byles, Rev. Thomas Roussel Davids;male;42;0;0;244310;13,0000;;S;;;London
 2;1;Bystrom, Mrs. (Karolina);female;42;0;0;236852;13,0000;;S;;;New York, NY
-2;1;Caldwell, Master. Alden Gates;male;0,8333;0;2;248738;29,0000;;S;13;;Bangkok, Thailand / Roseville, IL
+2;1;Caldwell, Master. Alden Gates;male;0.8333;0;2;248738;29,0000;;S;13;;Bangkok, Thailand / Roseville, IL
 2;1;Caldwell, Mr. Albert Francis;male;26;1;1;248738;29,0000;;S;13;;Bangkok, Thailand / Roseville, IL
 2;1;Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh);female;22;1;1;248738;29,0000;;S;13;;Bangkok, Thailand / Roseville, IL
 2;1;Cameron, Miss. Clear Annie;female;35;0;0;F.C.C. 13528;21,0000;;S;14;;Mamaroneck, NY
@@ -426,7 +426,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 2;0;Givard, Mr. Hans Kristensen;male;30;0;0;250646;13,0000;;S;;305;
 2;0;Greenberg, Mr. Samuel;male;52;0;0;250647;13,0000;;S;;19;Bronx, NY
 2;0;Hale, Mr. Reginald;male;30;0;0;250653;13,0000;;S;;75;Auburn, NY
-2;1;Hamalainen, Master. Viljo;male;0,6667;1;1;250649;14,5000;;S;4;;Detroit, MI
+2;1;Hamalainen, Master. Viljo;male;0.6667;1;1;250649;14,5000;;S;4;;Detroit, MI
 2;1;Hamalainen, Mrs. William (Anna);female;24;0;2;250649;14,5000;;S;4;;Detroit, MI
 2;0;Harbeck, Mr. William H;male;44;0;0;248746;13,0000;;S;;35;Seattle, WA / Toledo, OH
 2;1;"Harper, Miss. Annie Jessie ""Nina""";female;6;0;1;248727;33,0000;;S;11;;Denmark Hill, Surrey / Chicago
@@ -511,11 +511,11 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 2;0;"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")";male;39;0;0;250655;26,0000;;S;;;
 2;0;Mudd, Mr. Thomas Charles;male;16;0;0;S.O./P.P. 3;10,5000;;S;;;Halesworth, England
 2;0;Myles, Mr. Thomas Francis;male;62;0;0;240276;9,6875;;Q;;;Cambridge, MA
-2;0;Nasser, Mr. Nicholas;male;32,5;1;0;237736;30,0708;;C;;43;New York, NY
+2;0;Nasser, Mr. Nicholas;male;32.5;1;0;237736;30,0708;;C;;43;New York, NY
 2;1;Nasser, Mrs. Nicholas (Adele Achem);female;14;1;0;237736;30,0708;;C;;;New York, NY
 2;1;Navratil, Master. Edmond Roger;male;2;1;1;230080;26,0000;F2;S;D;;Nice, France
 2;1;Navratil, Master. Michel M;male;3;1;1;230080;26,0000;F2;S;D;;Nice, France
-2;0;"Navratil, Mr. Michel (""Louis M Hoffman"")";male;36,5;0;2;230080;26,0000;F2;S;;15;Nice, France
+2;0;"Navratil, Mr. Michel (""Louis M Hoffman"")";male;36.5;0;2;230080;26,0000;F2;S;;15;Nice, France
 2;0;Nesson, Mr. Israel;male;26;0;0;244368;13,0000;F2;S;;;Boston, MA
 2;0;Nicholls, Mr. Joseph Charles;male;19;1;1;C.A. 33112;36,7500;;S;;101;Cornwall / Hancock, MI
 2;0;Norman, Mr. Robert Douglas;male;28;0;0;218629;13,5000;;S;;287;Glasgow
@@ -547,7 +547,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 2;1;Renouf, Mrs. Peter Henry (Lillian Jefferys);female;30;3;0;31027;21,0000;;S;;;Elizabeth, NJ
 2;1;Reynaldo, Ms. Encarnacion;female;28;0;0;230434;13,0000;;S;9;;Spain
 2;0;Richard, Mr. Emile;male;23;0;0;SC/PARIS 2133;15,0458;;C;;;Paris / Montreal, PQ
-2;1;Richards, Master. George Sibley;male;0,8333;1;1;29106;18,7500;;S;4;;Cornwall / Akron, OH
+2;1;Richards, Master. George Sibley;male;0.8333;1;1;29106;18,7500;;S;4;;Cornwall / Akron, OH
 2;1;Richards, Master. William Rowe;male;3;1;1;29106;18,7500;;S;4;;Cornwall / Akron, OH
 2;1;Richards, Mrs. Sidney (Emily Hocking);female;24;2;3;29106;18,7500;;S;4;;Cornwall / Akron, OH
 2;1;Ridsdale, Miss. Lucy;female;50;0;0;W./C. 14258;10,5000;;S;13;;London, England / Marietta, Ohio and Milwaukee, WI
@@ -567,7 +567,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 2;0;Sobey, Mr. Samuel James Hayden;male;25;0;0;C.A. 29178;13,0000;;S;;;Cornwall / Houghton, MI
 2;0;Stanton, Mr. Samuel Ward;male;41;0;0;237734;15,0458;;C;;;New York, NY
 2;0;Stokes, Mr. Philip Joseph;male;25;0;0;F.C.C. 13540;10,5000;;S;;81;Catford, Kent / Detroit, MI
-2;0;Swane, Mr. George;male;18,5;0;0;248734;13,0000;F;S;;294;
+2;0;Swane, Mr. George;male;18.5;0;0;248734;13,0000;F;S;;294;
 2;0;Sweet, Mr. George Frederick;male;14;0;0;220845;65,0000;;S;;;Somerset / Bernardsville, NJ
 2;1;Toomey, Miss. Ellen;female;50;0;0;F.C.C. 13531;10,5000;;S;9;;Indianapolis, IN
 2;0;Troupiansky, Mr. Moses Aaron;male;23;0;0;233639;13,0000;;S;;;
@@ -583,13 +583,13 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 2;0;Watson, Mr. Ennis Hastings;male;;0;0;239856;0,0000;;S;;;Belfast
 2;1;Watt, Miss. Bertha J;female;12;0;0;C.A. 33595;15,7500;;S;9;;Aberdeen / Portland, OR
 2;1;"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)";female;40;0;0;C.A. 33595;15,7500;;S;9;;Aberdeen / Portland, OR
-2;1;Webber, Miss. Susan;female;32,5;0;0;27267;13,0000;E101;S;12;;England / Hartford, CT
+2;1;Webber, Miss. Susan;female;32.5;0;0;27267;13,0000;E101;S;12;;England / Hartford, CT
 2;0;Weisz, Mr. Leopold;male;27;1;0;228414;26,0000;;S;;293;Bromsgrove, England / Montreal, PQ
 2;1;Weisz, Mrs. Leopold (Mathilde Francoise Pede);female;29;1;0;228414;26,0000;;S;10;;Bromsgrove, England / Montreal, PQ
 2;1;Wells, Master. Ralph Lester;male;2;1;1;29103;23,0000;;S;14;;Cornwall / Akron, OH
 2;1;Wells, Miss. Joan;female;4;1;1;29103;23,0000;;S;14;;Cornwall / Akron, OH
 2;1;"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)";female;29;0;2;29103;23,0000;;S;14;;Cornwall / Akron, OH
-2;1;West, Miss. Barbara J;female;0,9167;1;2;C.A. 34651;27,7500;;S;10;;Bournmouth, England
+2;1;West, Miss. Barbara J;female;0.9167;1;2;C.A. 34651;27,7500;;S;10;;Bournmouth, England
 2;1;West, Miss. Constance Mirium;female;5;1;2;C.A. 34651;27,7500;;S;10;;Bournmouth, England
 2;0;West, Mr. Edwy Arthur;male;36;1;2;C.A. 34651;27,7500;;S;;;Bournmouth, England
 2;1;West, Mrs. Edwy Arthur (Ada Mary Worth);female;33;1;2;C.A. 34651;27,7500;;S;10;;Bournmouth, England
@@ -610,7 +610,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Adahl, Mr. Mauritz Nils Martin;male;30;0;0;C 7076;7,2500;;S;;72;Asarum, Sweden Brooklyn, NY
 3;0;Adams, Mr. John;male;26;0;0;341826;8,0500;;S;;103;Bournemouth, England
 3;0;Ahlin, Mrs. Johan (Johanna Persdotter Larsson);female;40;1;0;7546;9,4750;;S;;;Sweden Akeley, MN
-3;1;Aks, Master. Philip Frank;male;0,8333;0;1;392091;9,3500;;S;11;;London, England Norfolk, VA
+3;1;Aks, Master. Philip Frank;male;0.8333;0;1;392091;9,3500;;S;11;;London, England Norfolk, VA
 3;1;Aks, Mrs. Sam (Leah Rosen);female;18;0;1;392091;9,3500;;S;13;;London, England Norfolk, VA
 3;1;Albimona, Mr. Nassef Cassem;male;26;0;0;2699;18,7875;;C;15;;Syria Fredericksburg, VA
 3;0;Alexander, Mr. William;male;26;0;0;3474;7,8875;;S;;;England Albion, NY
@@ -656,8 +656,8 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Baccos, Mr. Raffull;male;20;0;0;2679;7,2250;;C;;;
 3;0;Backstrom, Mr. Karl Alfred;male;32;1;0;3101278;15,8500;;S;D;;Ruotsinphytaa, Finland New York, NY
 3;1;Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson);female;33;3;0;3101278;15,8500;;S;;;Ruotsinphytaa, Finland New York, NY
-3;1;Baclini, Miss. Eugenie;female;0,75;2;1;2666;19,2583;;C;C;;Syria New York, NY
-3;1;Baclini, Miss. Helene Barbara;female;0,75;2;1;2666;19,2583;;C;C;;Syria New York, NY
+3;1;Baclini, Miss. Eugenie;female;0.75;2;1;2666;19,2583;;C;C;;Syria New York, NY
+3;1;Baclini, Miss. Helene Barbara;female;0.75;2;1;2666;19,2583;;C;C;;Syria New York, NY
 3;1;Baclini, Miss. Marie Catherine;female;5;2;1;2666;19,2583;;C;C;;Syria New York, NY
 3;1;Baclini, Mrs. Solomon (Latifa Qurban);female;24;0;3;2666;19,2583;;C;C;;Syria New York, NY
 3;1;Badman, Miss. Emily Louisa;female;18;0;0;A/4 31416;8,0500;;S;C;;London Skanteales, NY
@@ -691,7 +691,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Braund, Mr. Owen Harris;male;22;1;0;A/5 21171;7,2500;;S;;;Bridgerule, Devon
 3;0;Brobeck, Mr. Karl Rudolf;male;22;0;0;350045;7,7958;;S;;;Sweden Worcester, MA
 3;0;Brocklebank, Mr. William Alfred;male;35;0;0;364512;8,0500;;S;;;Broomfield, Chelmsford, England
-3;0;Buckley, Miss. Katherine;female;18,5;0;0;329944;7,2833;;Q;;299;Co Cork, Ireland Roxbury, MA
+3;0;Buckley, Miss. Katherine;female;18.5;0;0;329944;7,2833;;Q;;299;Co Cork, Ireland Roxbury, MA
 3;1;Buckley, Mr. Daniel;male;21;0;0;330920;7,8208;;Q;13;;Kingwilliamstown, Co Cork, Ireland New York, NY
 3;0;Burke, Mr. Jeremiah;male;19;0;0;365222;6,7500;;Q;;;Co Cork, Ireland Charlestown, MA
 3;0;Burns, Miss. Mary Delia;female;18;0;0;330963;7,8792;;Q;;;Co Sligo, Ireland New York, NY
@@ -726,7 +726,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Connaghton, Mr. Michael;male;31;0;0;335097;7,7500;;Q;;;Ireland Brooklyn, NY
 3;1;Connolly, Miss. Kate;female;22;0;0;370373;7,7500;;Q;13;;Ireland
 3;0;Connolly, Miss. Kate;female;30;0;0;330972;7,6292;;Q;;;Ireland
-3;0;Connors, Mr. Patrick;male;70,5;0;0;370369;7,7500;;Q;;171;
+3;0;Connors, Mr. Patrick;male;70.5;0;0;370369;7,7500;;Q;;171;
 3;0;Cook, Mr. Jacob;male;43;0;0;A/5 3536;8,0500;;S;;;
 3;0;Cor, Mr. Bartol;male;35;0;0;349230;7,8958;;S;;;Austria
 3;0;Cor, Mr. Ivan;male;27;0;0;349229;7,8958;;S;;;Austria
@@ -740,13 +740,13 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;1;Cribb, Miss. Laura Alice;female;17;0;1;371362;16,1000;;S;12;;Bournemouth, England Newark, NJ
 3;0;Cribb, Mr. John Hatfield;male;44;0;1;371362;16,1000;;S;;;Bournemouth, England Newark, NJ
 3;0;Culumovic, Mr. Jeso;male;17;0;0;315090;8,6625;;S;;;Austria-Hungary
-3;0;Daher, Mr. Shedid;male;22,5;0;0;2698;7,2250;;C;;9;
+3;0;Daher, Mr. Shedid;male;22.5;0;0;2698;7,2250;;C;;9;
 3;1;Dahl, Mr. Karl Edwart;male;45;0;0;7598;8,0500;;S;15;;Australia Fingal, ND
 3;0;Dahlberg, Miss. Gerda Ulrika;female;22;0;0;7552;10,5167;;S;;;Norrlot, Sweden Chicago, IL
 3;0;Dakic, Mr. Branko;male;19;0;0;349228;10,1708;;S;;;Austria
 3;1;"Daly, Miss. Margaret Marcella ""Maggie""";female;30;0;0;382650;6,9500;;Q;15;;Co Athlone, Ireland New York, NY
 3;1;Daly, Mr. Eugene Patrick;male;29;0;0;382651;7,7500;;Q;13 15 B;;Co Athlone, Ireland New York, NY
-3;0;Danbom, Master. Gilbert Sigvard Emanuel;male;0,3333;0;2;347080;14,4000;;S;;;Stanton, IA
+3;0;Danbom, Master. Gilbert Sigvard Emanuel;male;0.3333;0;2;347080;14,4000;;S;;;Stanton, IA
 3;0;Danbom, Mr. Ernst Gilbert;male;34;1;1;347080;14,4000;;S;;197;Stanton, IA
 3;0;Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren);female;28;1;1;347080;14,4000;;S;;;Stanton, IA
 3;0;Danoff, Mr. Yoto;male;27;0;0;349219;7,8958;;S;;;Bulgaria Chicago, IL
@@ -757,12 +757,12 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Davies, Mr. Joseph;male;17;2;0;A/4 48873;8,0500;;S;;;West Bromwich, England Pontiac, MI
 3;0;Davison, Mr. Thomas Henry;male;;1;0;386525;16,1000;;S;;;Liverpool, England Bedford, OH
 3;1;Davison, Mrs. Thomas Henry (Mary E Finck);female;;1;0;386525;16,1000;;S;16;;Liverpool, England Bedford, OH
-3;1;de Messemaeker, Mr. Guillaume Joseph;male;36,5;1;0;345572;17,4000;;S;15;;Tampico, MT
+3;1;de Messemaeker, Mr. Guillaume Joseph;male;36.5;1;0;345572;17,4000;;S;15;;Tampico, MT
 3;1;de Messemaeker, Mrs. Guillaume Joseph (Emma);female;36;1;0;345572;17,4000;;S;13;;Tampico, MT
 3;1;de Mulder, Mr. Theodore;male;30;0;0;345774;9,5000;;S;11;;Belgium Detroit, MI
 3;0;de Pelsmaeker, Mr. Alfons;male;16;0;0;345778;9,5000;;S;;;
 3;1;Dean, Master. Bertram Vere;male;1;1;2;C.A. 2315;20,5750;;S;10;;Devon, England Wichita, KS
-3;1;"Dean, Miss. Elizabeth Gladys ""Millvina""";female;0,1667;1;2;C.A. 2315;20,5750;;S;10;;Devon, England Wichita, KS
+3;1;"Dean, Miss. Elizabeth Gladys ""Millvina""";female;0.1667;1;2;C.A. 2315;20,5750;;S;10;;Devon, England Wichita, KS
 3;0;Dean, Mr. Bertram Frank;male;26;1;2;C.A. 2315;20,5750;;S;;;Devon, England Wichita, KS
 3;1;Dean, Mrs. Bertram (Eva Georgetta Light);female;33;1;2;C.A. 2315;20,5750;;S;10;;Devon, England Wichita, KS
 3;0;Delalic, Mr. Redjo;male;25;0;0;349250;7,8958;;S;;;
@@ -795,8 +795,8 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Elsbury, Mr. William James;male;47;0;0;A/5 3902;7,2500;;S;;;Illinois, USA
 3;1;Emanuel, Miss. Virginia Ethel;female;5;0;0;364516;12,4750;;S;13;;New York, NY
 3;0;Emir, Mr. Farred Chehab;male;;0;0;2631;7,2250;;C;;;
-3;0;Everett, Mr. Thomas James;male;40,5;0;0;C.A. 6212;15,1000;;S;;187;
-3;0;Farrell, Mr. James;male;40,5;0;0;367232;7,7500;;Q;;68;Aughnacliff, Co Longford, Ireland New York, NY
+3;0;Everett, Mr. Thomas James;male;40.5;0;0;C.A. 6212;15,1000;;S;;187;
+3;0;Farrell, Mr. James;male;40.5;0;0;367232;7,7500;;Q;;68;Aughnacliff, Co Longford, Ireland New York, NY
 3;1;Finoli, Mr. Luigi;male;;0;0;SOTON/O.Q. 3101308;7,0500;;S;15;;Italy Philadelphia, PA
 3;0;Fischer, Mr. Eberhard Thelander;male;18;0;0;350036;7,7958;;S;;;
 3;0;Fleming, Miss. Honora;female;;0;0;364859;7,7500;;Q;;;
@@ -846,7 +846,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Hakkarainen, Mr. Pekka Pietari;male;28;1;0;STON/O2. 3101279;15,8500;;S;;;
 3;1;Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck);female;24;1;0;STON/O2. 3101279;15,8500;;S;15;;
 3;0;Hampe, Mr. Leon;male;20;0;0;345769;9,5000;;S;;;
-3;0;Hanna, Mr. Mansour;male;23,5;0;0;2693;7,2292;;C;;188;
+3;0;Hanna, Mr. Mansour;male;23.5;0;0;2693;7,2292;;C;;188;
 3;0;Hansen, Mr. Claus Peter;male;41;2;0;350026;14,1083;;S;;;
 3;0;Hansen, Mr. Henrik Juul;male;26;1;0;350025;7,8542;;S;;;
 3;0;Hansen, Mr. Henry Damsgaard;male;21;0;0;350029;7,8542;;S;;69;
@@ -918,12 +918,12 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;1;Karun, Miss. Manca;female;4;0;1;349256;13,4167;;C;15;;
 3;1;Karun, Mr. Franz;male;39;0;1;349256;13,4167;;C;15;;
 3;0;Kassem, Mr. Fared;male;;0;0;2700;7,2292;;C;;;
-3;0;"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")";male;18,5;0;0;2682;7,2292;;C;;58;
+3;0;"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")";male;18.5;0;0;2682;7,2292;;C;;58;
 3;0;"Keane, Mr. Andrew ""Andy""";male;;0;0;12460;7,7500;;Q;;;
 3;0;Keefe, Mr. Arthur;male;;0;0;323592;7,2500;;S;A;;
 3;1;"Kelly, Miss. Anna Katherine ""Annie Kate""";female;;0;0;9234;7,7500;;Q;16;;
 3;1;Kelly, Miss. Mary;female;;0;0;14312;7,7500;;Q;D;;
-3;0;Kelly, Mr. James;male;34,5;0;0;330911;7,8292;;Q;;70;
+3;0;Kelly, Mr. James;male;34.5;0;0;330911;7,8292;;Q;;70;
 3;0;Kelly, Mr. James;male;44;0;0;363592;8,0500;;S;;;
 3;1;Kennedy, Mr. John;male;;0;0;368783;7,7500;;Q;;;
 3;0;Khalil, Mr. Betros;male;;1;0;2660;14,4542;;C;;;
@@ -959,7 +959,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Lefebre, Miss. Mathilde;female;;3;1;4133;25,4667;;S;;;
 3;0;Lefebre, Mrs. Frank (Frances);female;;0;4;4133;25,4667;;S;;;
 3;0;Leinonen, Mr. Antti Gustaf;male;32;0;0;STON/O 2. 3101292;7,9250;;S;;;
-3;0;Lemberopolous, Mr. Peter L;male;34,5;0;0;2683;6,4375;;C;;196;
+3;0;Lemberopolous, Mr. Peter L;male;34.5;0;0;2683;6,4375;;C;;196;
 3;0;Lennon, Miss. Mary;female;;1;0;370371;15,5000;;Q;;;
 3;0;Lennon, Mr. Denis;male;;1;0;370371;15,5000;;Q;;;
 3;0;Leonard, Mr. Lionel;male;36;0;0;LINE;0,0000;;S;;;
@@ -976,7 +976,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Lobb, Mr. William Arthur;male;30;1;0;A/5. 3336;16,1000;;S;;;
 3;0;Lobb, Mrs. William Arthur (Cordelia K Stanlick);female;26;1;0;A/5. 3336;16,1000;;S;;;
 3;0;Lockyer, Mr. Edward;male;;0;0;1222;7,8792;;S;;153;
-3;0;"Lovell, Mr. John Hall (""Henry"")";male;20,5;0;0;A/5 21173;7,2500;;S;;;
+3;0;"Lovell, Mr. John Hall (""Henry"")";male;20.5;0;0;A/5 21173;7,2500;;S;;;
 3;1;Lulic, Mr. Nikola;male;27;0;0;315098;8,6625;;S;15;;
 3;0;Lundahl, Mr. Johan Svensson;male;51;0;0;347743;7,0542;;S;;;
 3;1;Lundin, Miss. Olga Elida;female;23;0;0;347469;7,8542;;S;10;;
@@ -991,7 +991,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Maisner, Mr. Simon;male;;0;0;A/S 2816;8,0500;;S;;;
 3;0;Makinen, Mr. Kalle Edvard;male;29;0;0;STON/O 2. 3101268;7,9250;;S;;;
 3;1;Mamee, Mr. Hanna;male;;0;0;2677;7,2292;;C;15;;
-3;0;Mangan, Miss. Mary;female;30,5;0;0;364850;7,7500;;Q;;61;
+3;0;Mangan, Miss. Mary;female;30.5;0;0;364850;7,7500;;Q;;61;
 3;1;Mannion, Miss. Margareth;female;;0;0;36866;7,7375;;Q;16;;
 3;0;Mardirosian, Mr. Sarkis;male;;0;0;2655;7,2292;F E46;C;;;
 3;0;Markoff, Mr. Marin;male;35;0;0;349213;7,8958;;C;;;
@@ -1014,7 +1014,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;McNeill, Miss. Bridget;female;;0;0;370368;7,7500;;Q;;;
 3;0;Meanwell, Miss. (Marion Ogden);female;;0;0;SOTON/O.Q. 392087;8,0500;;S;;;
 3;0;Meek, Mrs. Thomas (Annie Louise Rowley);female;;0;0;343095;8,0500;;S;;;
-3;0;Meo, Mr. Alfonzo;male;55,5;0;0;A.5. 11206;8,0500;;S;;201;
+3;0;Meo, Mr. Alfonzo;male;55.5;0;0;A.5. 11206;8,0500;;S;;201;
 3;0;Mernagh, Mr. Robert;male;;0;0;368703;7,7500;;Q;;;
 3;1;Midtsjo, Mr. Karl Albert;male;21;0;0;345501;7,7750;;S;15;;
 3;0;Miles, Mr. Frank;male;;0;0;359306;8,0500;;S;;;
@@ -1065,7 +1065,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Nirva, Mr. Iisakki Antino Aijo;male;41;0;0;SOTON/O2 3101272;7,1250;;S;;;Finland Sudbury, ON
 3;1;Niskanen, Mr. Juha;male;39;0;0;STON/O 2. 3101289;7,9250;;S;9;;
 3;0;Nosworthy, Mr. Richard Cater;male;21;0;0;A/4. 39886;7,8000;;S;;;
-3;0;Novel, Mr. Mansouer;male;28,5;0;0;2697;7,2292;;C;;181;
+3;0;Novel, Mr. Mansouer;male;28.5;0;0;2697;7,2292;;C;;181;
 3;1;Nysten, Miss. Anna Sofia;female;22;0;0;347081;7,7500;;S;13;;
 3;0;Nysveen, Mr. Johan Hansen;male;61;0;0;345364;6,2375;;S;;;
 3;0;O'Brien, Mr. Thomas;male;;1;0;370365;15,5000;;Q;;;
@@ -1110,7 +1110,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Patchett, Mr. George;male;19;0;0;358585;14,5000;;S;;;
 3;0;Paulner, Mr. Uscher;male;;0;0;3411;8,7125;;C;;;
 3;0;Pavlovic, Mr. Stefo;male;32;0;0;349242;7,8958;;S;;;
-3;0;Peacock, Master. Alfred Edward;male;0,75;1;1;SOTON/O.Q. 3101315;13,7750;;S;;;
+3;0;Peacock, Master. Alfred Edward;male;0.75;1;1;SOTON/O.Q. 3101315;13,7750;;S;;;
 3;0;Peacock, Miss. Treasteall;female;3;1;1;SOTON/O.Q. 3101315;13,7750;;S;;;
 3;0;Peacock, Mrs. Benjamin (Edith Nile);female;26;0;2;SOTON/O.Q. 3101315;13,7750;;S;;;
 3;0;Pearce, Mr. Ernest;male;;0;0;343271;7,0000;;S;;;
@@ -1168,9 +1168,9 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Saade, Mr. Jean Nassr;male;;0;0;2676;7,2250;;C;;;
 3;0;Sadlier, Mr. Matthew;male;;0;0;367655;7,7292;;Q;;;
 3;0;Sadowitz, Mr. Harry;male;;0;0;LP 1588;7,5750;;S;;;
-3;0;Saether, Mr. Simon Sivertsen;male;38,5;0;0;SOTON/O.Q. 3101262;7,2500;;S;;32;
+3;0;Saether, Mr. Simon Sivertsen;male;38.5;0;0;SOTON/O.Q. 3101262;7,2500;;S;;32;
 3;0;Sage, Master. Thomas Henry;male;;8;2;CA. 2343;69,5500;;S;;;
-3;0;Sage, Master. William Henry;male;14,5;8;2;CA. 2343;69,5500;;S;;67;
+3;0;Sage, Master. William Henry;male;14.5;8;2;CA. 2343;69,5500;;S;;67;
 3;0;Sage, Miss. Ada;female;;8;2;CA. 2343;69,5500;;S;;;
 3;0;Sage, Miss. Constance Gladys;female;;8;2;CA. 2343;69,5500;;S;;;
 3;0;"Sage, Miss. Dorothy Edith ""Dolly""";female;;8;2;CA. 2343;69,5500;;S;;;
@@ -1191,7 +1191,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;1;Sandstrom, Miss. Marguerite Rut;female;4;1;1;PP 9549;16,7000;G6;S;13;;
 3;1;Sap, Mr. Julius;male;25;0;0;345768;9,5000;;S;11;;
 3;0;Saundercock, Mr. William Henry;male;20;0;0;A/5. 2151;8,0500;;S;;;
-3;0;Sawyer, Mr. Frederick Charles;male;24,5;0;0;342826;8,0500;;S;;284;
+3;0;Sawyer, Mr. Frederick Charles;male;24.5;0;0;342826;8,0500;;S;;284;
 3;0;Scanlan, Mr. James;male;;0;0;36209;7,7250;;Q;;;
 3;0;Sdycoff, Mr. Todor;male;;0;0;349222;7,8958;;S;;;
 3;0;Shaughnessy, Mr. Patrick;male;;0;0;370374;7,7500;;Q;;;
@@ -1224,7 +1224,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Stankovic, Mr. Ivan;male;33;0;0;349239;8,6625;;C;;;
 3;1;Stanley, Miss. Amy Zillah Elsie;female;23;0;0;CA. 2314;7,5500;;S;C;;
 3;0;Stanley, Mr. Edward Roland;male;21;0;0;A/4 45380;8,0500;;S;;;
-3;0;Storey, Mr. Thomas;male;60,5;0;0;3701;;;S;;261;
+3;0;Storey, Mr. Thomas;male;60.5;0;0;3701;;;S;;261;
 3;0;Stoytcheff, Mr. Ilia;male;19;0;0;349205;7,8958;;S;;;
 3;0;Strandberg, Miss. Ida Sofia;female;22;0;0;7553;9,8375;;S;;;
 3;1;Stranden, Mr. Juho;male;31;0;0;STON/O 2. 3101288;7,9250;;S;9;;
@@ -1239,7 +1239,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Svensson, Mr. Olof;male;24;0;0;350035;7,7958;;S;;;
 3;1;Tenglin, Mr. Gunnar Isidor;male;25;0;0;350033;7,7958;;S;13 15;;
 3;0;Theobald, Mr. Thomas Leonard;male;34;0;0;363294;8,0500;;S;;176;
-3;1;Thomas, Master. Assad Alexander;male;0,4167;0;1;2625;8,5167;;C;16;;
+3;1;Thomas, Master. Assad Alexander;male;0.4167;0;1;2625;8,5167;;C;16;;
 3;0;Thomas, Mr. Charles P;male;;1;0;2621;6,4375;;C;;;
 3;0;Thomas, Mr. John;male;;0;0;2681;6,4375;;C;;;
 3;0;Thomas, Mr. Tannous;male;;0;0;2684;7,2250;;C;;;
@@ -1250,7 +1250,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Tikkanen, Mr. Juho;male;32;0;0;STON/O 2. 3101293;7,9250;;S;;;
 3;0;Tobin, Mr. Roger;male;;0;0;383121;7,7500;F38;Q;;;
 3;0;Todoroff, Mr. Lalio;male;;0;0;349216;7,8958;;S;;;
-3;0;Tomlin, Mr. Ernest Portage;male;30,5;0;0;364499;8,0500;;S;;50;
+3;0;Tomlin, Mr. Ernest Portage;male;30.5;0;0;364499;8,0500;;S;;50;
 3;0;Torber, Mr. Ernst William;male;44;0;0;364511;8,0500;;S;;;
 3;0;Torfa, Mr. Assad;male;;0;0;2673;7,2292;;C;;;
 3;1;Tornquist, Mr. William Henry;male;25;0;0;LINE;0,0000;;S;15;;
@@ -1262,8 +1262,8 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;1;Turja, Miss. Anna Sofia;female;18;0;0;4138;9,8417;;S;15;;
 3;1;Turkula, Mrs. (Hedwig);female;63;0;0;4134;9,5875;;S;15;;
 3;0;van Billiard, Master. James William;male;;1;1;A/5. 851;14,5000;;S;;;
-3;0;van Billiard, Master. Walter John;male;11,5;1;1;A/5. 851;14,5000;;S;;1;
-3;0;van Billiard, Mr. Austin Blyler;male;40,5;0;2;A/5. 851;14,5000;;S;;255;
+3;0;van Billiard, Master. Walter John;male;11.5;1;1;A/5. 851;14,5000;;S;;1;
+3;0;van Billiard, Mr. Austin Blyler;male;40.5;0;2;A/5. 851;14,5000;;S;;255;
 3;0;Van Impe, Miss. Catharina;female;10;0;2;345773;24,1500;;S;;;
 3;0;Van Impe, Mr. Jean Baptiste;male;36;1;1;345773;24,1500;;S;;;
 3;0;Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert);female;30;1;1;345773;24,1500;;S;;;
@@ -1284,7 +1284,7 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;Ware, Mr. Frederick;male;;0;0;359309;8,0500;;S;;;
 3;0;Warren, Mr. Charles William;male;;0;0;C.A. 49867;7,5500;;S;;;
 3;0;Webber, Mr. James;male;;0;0;SOTON/OQ 3101316;8,0500;;S;;;
-3;0;Wenzel, Mr. Linhart;male;32,5;0;0;345775;9,5000;;S;;298;
+3;0;Wenzel, Mr. Linhart;male;32.5;0;0;345775;9,5000;;S;;298;
 3;1;Whabee, Mrs. George Joseph (Shawneene Abi-Saab);female;38;0;0;2688;7,2292;;C;C;;
 3;0;Widegren, Mr. Carl/Charles Peter;male;51;0;0;347064;7,7500;;S;;;
 3;0;Wiklund, Mr. Jakob Alfred;male;18;1;0;3101267;6,4958;;S;;314;
@@ -1293,19 +1293,18 @@ pclass;survived;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;ho
 3;0;"Willer, Mr. Aaron (""Abi Weller"")";male;;0;0;3410;8,7125;;S;;;
 3;0;Willey, Mr. Edward;male;;0;0;S.O./P.P. 751;7,5500;;S;;;
 3;0;"Williams, Mr. Howard Hugh ""Harry""";male;;0;0;A/5 2466;8,0500;;S;;;
-3;0;Williams, Mr. Leslie;male;28,5;0;0;54636;16,1000;;S;;14;
+3;0;Williams, Mr. Leslie;male;28.5;0;0;54636;16,1000;;S;;14;
 3;0;Windelov, Mr. Einar;male;21;0;0;SOTON/OQ 3101317;7,2500;;S;;;
 3;0;Wirz, Mr. Albert;male;27;0;0;315154;8,6625;;S;;131;
 3;0;Wiseman, Mr. Phillippe;male;;0;0;A/4. 34244;7,2500;;S;;;
 3;0;Wittevrongel, Mr. Camille;male;36;0;0;345771;9,5000;;S;;;
 3;0;Yasbeck, Mr. Antoni;male;27;1;0;2659;14,4542;;C;C;;
 3;1;Yasbeck, Mrs. Antoni (Selini Alexander);female;15;1;0;2659;14,4542;;C;;;
-3;0;Youseff, Mr. Gerious;male;45,5;0;0;2628;7,2250;;C;;312;
+3;0;Youseff, Mr. Gerious;male;45.5;0;0;2628;7,2250;;C;;312;
 3;0;Yousif, Mr. Wazli;male;;0;0;2647;7,2250;;C;;;
 3;0;Yousseff, Mr. Gerious;male;;0;0;2627;14,4583;;C;;;
-3;0;Zabour, Miss. Hileni;female;14,5;1;0;2665;14,4542;;C;;328;
+3;0;Zabour, Miss. Hileni;female;14.5;1;0;2665;14,4542;;C;;328;
 3;0;Zabour, Miss. Thamine;female;;1;0;2665;14,4542;;C;;;
-3;0;Zakarian, Mr. Mapriededer;male;26,5;0;0;2656;7,2250;;C;;304;
+3;0;Zakarian, Mr. Mapriededer;male;26.5;0;0;2656;7,2250;;C;;304;
 3;0;Zakarian, Mr. Ortin;male;27;0;0;2670;7,2250;;C;;;
 3;0;Zimmerman, Mr. Leo;male;29;0;0;315082;7,8750;;S;;;
-;;;;;;;;;;;;;
