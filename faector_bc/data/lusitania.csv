@@ -8,7 +8,7 @@ ANDERSON;Mr.;James Clarke;Lost;48;Deck;Crew;British;Staff Captain;;Liverpool;Lan
 ANDERSON;Mr.;John;Lost;;Deck;Crew;Norwegian;Able-Bodied Seaman;;;;;;;;;;;;1;Adult;Male
 BATTLE;Mr.;James;Saved;;Deck;Crew;British (Irish);Able-Bodied Seaman;;Sligo;;;Ireland;3 collapsibles;Westborough (Katrina);;;;;1;Adult;Male
 BESTIC;Mr.;Albert Arthur;Saved;24;Deck;Crew;British (Irish);Junior Third Officer;Single;Dublin;Dublin;;Ireland;collapsible;Bluebell;;;;;1;Adult;Male
-BOWDEN;Mr.;Joseph ;Saved;19;Deck;Crew;British;Able-Bodied Seaman;;;;;;;;;;;;1;Adult;Male
+BOWDEN;Mr.;Joseph ;Saved;19 ?;Deck;Crew;British;Able-Bodied Seaman;;;;;;;;;;;;1;Adult;Male
 BROWN;Mr.;John Manson George;Lost;57;Deck;Crew;British;Joiner;;;;;;;;;;;;1;Adult;Male
 CANNON;Mr.;Robert Henry;Lost;50;Deck;Crew;British;Inspector;;;;;;;;176;;;;1;Adult;Male
 CLINTON;Mr.;George;Saved;;Deck;Crew;British;Able-Bodied Seaman;;;;;;;;;;;;1;Adult;Male
@@ -202,7 +202,7 @@ HUTCHINSON;Mr.;George;Saved;;Engineering;Crew;British;Chief Electrician;;;;;;;;;
 HUTCHINSON;Mr.;George;Saved;;Engineering;Crew;British;Fireman;;;;;;;;;;;;1;Adult;Male
 JENKINS;Mr.;James;Lost;;Engineering;Crew;British;Fireman;;;;;;;;;;;;1;Adult;Male
 JONES;Mr.;Richard Ellis;Lost;31;Engineering;Crew;British;Junior 4th Engineer;;;;;;;;22;;;;1;Adult;Male
-JONES;Mr.;William Ewart Gladstone;Saved;29;Engineering;Crew;British;Third Electrician;;;;;;;Stormcock;;;;;1;Adult;Male
+JONES;Mr.;William Ewart Gladstone;Saved;29 ?;Engineering;Crew;British;Third Electrician;;;;;;;Stormcock;;;;;1;Adult;Male
 JONES;Mr.;Hugh;Lost;;Engineering;Crew;British;Greaser;;;;;;;;;;;;1;Adult;Male
 JONES;Mr.;John;Lost;;Engineering;Crew;British;Fireman;;;;;;;;;;;;1;Adult;Male
 JONES;Mr.;Michael;Saved;;Engineering;Crew;British;Trimmer;;;;;;;;;;;;1;Adult;Male
@@ -419,7 +419,7 @@ BOWRING;Mr.;Charles Warren;Saved;44;Saloon;Passenger;British;;Married;New York;;
 BRAITHWAITE;Miss;Dorothy Douglas;Lost;24;Saloon;Passenger;British;;Single;Montreal;;Quebec;Canada;;;;12934;D 63;;1;Adult;Female
 BRANDELL;Miss;Josephine Mary;Saved;23;Saloon;Passenger;USA;;Divorced;New York;;New York;USA;12, 15;Wanderer (Peel 12);;46031;D 30;Mabel Crichton (friend);1;Adult;Female
 BRODRICK;Mr.;Carlton Thayer;Lost;28;Saloon;Passenger;USA;;Single;Newton Centre;;Massachusetts;USA;;;46;46135;B 106;;1;Adult;Male
-BRODRICK-CLOETE;Mr.;William;Lost;63;Saloon;Passenger;British;;;London;;;England;;;;46067;B 25;;1;Adult;Male
+BRODRICK-CLOETE;Mr.;William;Lost;63 ?;Saloon;Passenger;British;;;London;;;England;;;;46067;B 25;;1;Adult;Male
 BROOKS;Mr.;"James ""Jay"" Ham";Saved;41;Saloon;Passenger;USA;;Married;Bridgeport;;Connecticut;USA;collapsible;Wanderer (Peel 12), Flying Fish;;3080;E 48;;1;Adult;Male
 BROWN;Mr.;William Henry Helm;Lost;34;Saloon;Passenger;British;;;Buffalo;;New York;USA;;;117;D1349;D 34;;1;Adult;Male
 BROWN;Mrs.;"F. C. (Mary ""May"" Cummins)";Lost;55;Saloon;Passenger;USA;;Widowed;New York;;New York;USA;;;;14311;D 52;Beatrice Witherbee (daughter), Alfred Witherbee (grandson);1;Adult;Female
@@ -444,10 +444,10 @@ CLARKE;Mr.;Alfred Russell;Saved (died from trauma);55;Saloon;Passenger;British;;
 COLEBROOK;Mr.;Herbert Gladstone;Saved;35;Saloon;Passenger;British;;;Toronto;;Ontario;Canada;;;;10866;B 111;;1;Adult;Male
 CONNER;Miss;Dorothy;Saved;25;Saloon;Passenger;USA;;Single;Medford;;Oregon;USA;;minesweeper;;46111;E 63;Howard Fisher (brother in law);1;Adult;Female
 COPPING;Mr.;George Robert;Lost;53;Saloon;Passenger;British;;Married;Toronto;;Ontario;Canada;;;150;13104;E 75;Emma Copping (wife);1;Adult;Male
-COPPING;Mrs.;George Robert (Emma Louisa Black);Lost;53;Saloon;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;13104;E 75;George Copping (husband);1;Adult;Female
+COPPING;Mrs.;George Robert (Emma Louisa Black);Lost;53 ?;Saloon;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;13104;E 75;George Copping (husband);1;Adult;Female
 CRICHTON;Mrs.;William C. (Mabel Gardner);Lost;42;Saloon;Passenger;USA;;Married;London;;;England;;;190;46088;A 19;Josephine Brandell (friend);1;Adult;Female
 CROMPTON;Mr.;Paul;Lost;44;Saloon;Passenger;British;;Married;Philadephia;;Pennsylvania;USA;;;;46081;D 56;Gladys Crompton (wife), Stephen, Alberta, Catherine, Paul, John, Peter Crompton (children), Dorothy Allen (nurse);1;Adult;Male
-CROMPTON;Master;Peter Romilly;Lost;1;Saloon;Passenger;British/USA;;Single;Philadephia;;Pennsylvania;USA;;;214;46081;D 60;Paul Crompton (father), Gladys Crompton (mother),  Stephen, Alberta, Catherine, Paul, John Crompton (siblings), Dorothy Allen (nurse);1;Infant;Male
+CROMPTON;Master;Peter Romilly;Lost;09-months;Saloon;Passenger;British/USA;;Single;Philadephia;;Pennsylvania;USA;;;214;46081;D 60;Paul Crompton (father), Gladys Crompton (mother),  Stephen, Alberta, Catherine, Paul, John Crompton (siblings), Dorothy Allen (nurse);1;Infant;Male
 CROMPTON;Master;John David;Lost;6;Saloon;Passenger;British/USA;;Single;Philadephia;;Pennsylvania;USA;;;192;46081;D 58;Paul Crompton (father), Gladys Crompton (mother),  Stephen, Alberta, Catherine, Paul, Peter Crompton (siblings), Dorothy Allen (nurse);1;Minor;Male
 CROMPTON;Master;Paul Romilly;Lost;9;Saloon;Passenger;British/USA;;Single;Philadephia;;Pennsylvania;USA;;;;46081;D 60;Paul Crompton (father), Gladys Crompton (mother),  Stephen, Alberta, Catherine, John, Peter Crompton (siblings), Dorothy Allen (nurse);1;Minor;Male
 CROMPTON;Master;Stephen Hugh;Lost;14;Saloon;Passenger;British;;Single;Philadephia;;Pennsylvania;USA;;;134;46081;D 58;Paul Crompton (father), Gladys Crompton (mother),  Alberta, Catherine, Paul, John, Peter Crompton (siblings), Dorothy Allen (nurse);1;Minor;Male
@@ -457,7 +457,7 @@ CROMPTON;Miss;Alberta;Lost;12;Saloon;Passenger;British;;Single;Philadephia;;Penn
 CROOKS;Mr.;Robert Williams;Lost;39;Saloon;Passenger;British;;;Toronto;;Ontario;Canada;;;93;10865;B 107;;1;Adult;Male
 CROSS;Mr.;Ambrose Betham;Saved;38;Saloon;Passenger;British;;;;;;Federated Malay States;;;;46126;E 46;;1;Adult;Male
 DALY;Mr.;Harold Mayne;Saved;35;Saloon;Passenger;British;;;Vancouver;;British Columbia;Canada;;;;8498;D 4;;1;Adult;Male
-DAVIS;Miss;Emily (maid to the Allans);Saved;NaN;Saloon;Passenger;British;;Single;Montreal;;Quebec;Canada;;Westborough (Katrina);;12933;B 79;Marguerite Allan (employer), Anna Allan (Lady Allan's daughter), Gwendolyn Allan (Lady Allan's daughter), Annie Walker (coworker);1;Adult;Female
+DAVIS;Miss;Emily (maid to the Allans);Saved;?;Saloon;Passenger;British;;Single;Montreal;;Quebec;Canada;;Westborough (Katrina);;12933;B 79;Marguerite Allan (employer), Anna Allan (Lady Allan's daughter), Gwendolyn Allan (Lady Allan's daughter), Annie Walker (coworker);1;Adult;Female
 DEARBERGH;Mr.;Robert Edward;Lost;48;Saloon;Passenger;British;;;New York;;New York;USA;;;202;46018;D 18;J. Foster Stackhouse (friend);1;Adult;Male
 DENYER;Mr.;Ronald (valet to Mr. Vanderbilt);Lost;30;Saloon;Passenger;USA;;;New York;;New York;USA;;;;46032;B 62;Alfred Vanderbilt (employer);1;Adult;Male
 DEPAGE;Mrs.;Antoine (Marie Picard);Lost;43;Saloon;Passenger;Belgian;;Married;Brussells;;;Belgium;;;57;46086;E 61;Dr. James Houghton (colleague);1;Adult;Female
@@ -587,11 +587,11 @@ PAYNTER;Mr.;Charles Edwin;Lost;63;Saloon;Passenger;British;;Married;Liverpool;;;
 PAYNTER;Miss;Irene Emily;Saved;30;Saloon;Passenger;British;;Single;Liverpool;;;England;;;;46133;B 105;Charles Paynter (father);1;Adult;Female
 PEARDON;Mr.;Franklin Arthur;Lost;35;Saloon;Passenger;British;;;Toronto;;Ontario;Canada;;;;13101;B 71;;1;Adult;Male
 PEARL;Master;Stuart Duncan Day;Saved;5;Saloon;Passenger;USA;;Single;New York;;New York;USA;13;Stormcock;;46071;E 67;Warren and Amy Pearl (parents), Amy, Susan, Audrey Pearl (siblings), Alice Lines, Greta Lorenson (nurses);1;Minor;Male
-PEARL;Miss;Audrey Warren;Saved;1;Saloon;Passenger;USA;;Single;New York;;New York;USA;13;Stormcock;;46071;E 67;Warren and Amy Pearl (parents), Stuart, Amy, Susan Pearl (siblings), Alice Lines, Greta Lorenson (nurses);1;Infant;Female
+PEARL;Miss;Audrey Warren;Saved;03-months;Saloon;Passenger;USA;;Single;New York;;New York;USA;13;Stormcock;;46071;E 67;Warren and Amy Pearl (parents), Stuart, Amy, Susan Pearl (siblings), Alice Lines, Greta Lorenson (nurses);1;Infant;Female
 PEARL;Surgeon-Major;"Frederic ""Frank"" Warren";Saved;46;Saloon;Passenger;USA;;Married;New York;;New York;USA;collapsible;Westborough (Katrina);;46071;E 51;Amy Pearl (wife), Stuart, Amy, Susan, Audrey Pearl (children), Alice Lines, Greta Lorenson (nurses), Fred Pearson (colleague);1;Adult;Male
 PEARL;Mrs.;Frederic Warren (Amy Lea Duncan);Saved;34;Saloon;Passenger;USA;;Married;New York;;New York;USA;overturned boat;tramp steamer;;46071;E 51;Warren Pearl (husband), Stuart, Amy, Susan, Audrey Pearl (children), Alice Lines, Greta Lorenson (nurses);1;Adult;Female
-PEARL;Miss;Susan Whitewright;Lost;2;Saloon;Passenger;USA;;Single;New York;;New York;USA;;;;46071;E 59;Warren and Amy Pearl (parents), Stuart, Amy, Audrey Pearl (siblings), Alice Lines, Greta Lorenson (nurses);1;Infant;Female
-PEARL;Miss;Amy Whitewright Warren;Lost;3;Saloon;Passenger;USA;;Single;New York;;New York;USA;;;;46071;E 59;Warren and Amy Pearl (parents), Stuart, Amy, Audrey Pearl (siblings), Alice Lines, Greta Lorenson (nurses);1;Minor;Female
+PEARL;Miss;Susan Whitewright;Lost;1,5;Saloon;Passenger;USA;;Single;New York;;New York;USA;;;;46071;E 59;Warren and Amy Pearl (parents), Stuart, Amy, Audrey Pearl (siblings), Alice Lines, Greta Lorenson (nurses);1;Infant;Female
+PEARL;Miss;Amy Whitewright Warren;Lost;2,5;Saloon;Passenger;USA;;Single;New York;;New York;USA;;;;46071;E 59;Warren and Amy Pearl (parents), Stuart, Amy, Audrey Pearl (siblings), Alice Lines, Greta Lorenson (nurses);1;Minor;Female
 PEARSON;Dr.;Fred Stark;Lost;53;Saloon;Passenger;USA;;Married;New York;;New York;USA;;;16;46094;B 51;Mabel Pearson (wife), David Walker (secretary), George Kessler (friend), Warren Pearl (colleague);1;Adult;Male
 PEARSON;Mrs.;Fred Stark (Mabel Ward);Lost;52;Saloon;Passenger;USA;;Married;New York;;New York;USA;;;216;46094;B 51;Fred Pearson (husband), David Walker (secretary), George Kessler (friend);1;Adult;Female
 PERKINS;Mr.;Edwin;Lost;41;Saloon;Passenger;British;;;;;;England;;;;46119;E 44;;1;Adult;Male
@@ -634,7 +634,7 @@ SMITH;Mrs.;John W. (Jessie Taft);Saved;39;Saloon;Passenger;USA;;Married;Bracevil
 SONNEBORN;Mr.;Henry Becker;Lost;44;Saloon;Passenger;USA;;Single;Paris;;;France;;;;14346;B 60;Leo Schwabacher (friend ?);1;Adult;Male
 STACKHOUSE;Commander;Joseph Foster;Lost;41;Saloon;Passenger;British;;Married;London;;;England;;;211;46075;A 34;;1;Adult;Male
 STAINTON;Mr.;William (valet to Mr. Frohman);Lost;36;Saloon;Passenger;USA;;Single (?);New York;;New York;USA;;;199;;B 61;Charles Frohman (employer);1;Adult;Male
-STEPHENS;Master;John Harrison Chattan;Lost;2;Saloon;Passenger;British;;Single;Montreal;;Quebec;Canada;;;;13170;D 9;Frances Stephens (grandmother), Carolina Milton (nurse), Elise Oberlin (maid);1;Infant;Male
+STEPHENS;Master;John Harrison Chattan;Lost;18-months;Saloon;Passenger;British;;Single;Montreal;;Quebec;Canada;;;;13170;D 9;Frances Stephens (grandmother), Carolina Milton (nurse), Elise Oberlin (maid);1;Infant;Male
 STEPHENS;Mrs.;George Washington (Frances Ramsey McIntosh);Lost;64;Saloon;Passenger;British;;Widowed;Montreal;;Quebec;Canada;;;28;13170;D 5;John Stephens (grandson), Carolina Milten (nurse), Elise Oberlin (maid);1;Adult;Female
 STEWART;Mr.;Duncan;Lost;52;Saloon;Passenger;British;;;Montreal;;Quebec;Canada;;;;13166;B 97;;1;Adult;Male
 STONE;Mr.;Herbert Stuart;Lost;43;Saloon;Passenger;USA;;Married;New York;;New York;USA;;;256;46069;B 10;;1;Adult;Male
@@ -685,7 +685,7 @@ ABRAMOWITZ;Mr.;Samuel;Saved;36;Second;Passenger;Russian;;;Paris;;;France;13;Stor
 ACKROYD;Master;Frederick;Lost;3;Second;Passenger;British;;Single;Brooklyn;;New York;USA;;;;;;;1;Minor;Male
 ACKROYD;Mrs.;Hannah (Hannah Hardaker);Lost;;Second;Passenger;British;;Married;Brooklyn;;New York;USA;;;;;;;1;Adult;Female
 ADAMS;Mr.;Allan H.;Saved;42;Second;Passenger;British;;;Winnipeg;;Manitoba;Canada;;;;;;;1;Adult;Male
-ADAMS;Mrs.;Albert E. (Gertrude Pollett);Saved;25;Second;Passenger;British;;Married;Edmonton;;Alberta;Canada;;;;;;Joan Adams (daughter);1;Adult;Female
+ADAMS;Mrs.;Albert E. (Gertrude Pollett);Saved;25 ?;Second;Passenger;British;;Married;Edmonton;;Alberta;Canada;;;;;;Joan Adams (daughter);1;Adult;Female
 ADAMS;Miss;Joan M.;Lost;2;Second;Passenger;British;;Single;Edmonton;;Alberta;Canada;;;;;;Gertrude Adams (mother);1;Minor;Female
 AISTON;Mr.;Mr. Joseph;Saved;20;Second;Passenger;British;;;Brooklyn;;New York;USA;;;;;;;1;Adult;Male
 AITKEN;Miss;"Crissy ""Chrissie"" Nicol Marshall Lizzie Stark";Saved;16;Second;Passenger;British;;Single;Merritt;;British Columbia;Canada;1 or 3;;;;E 114?;James Aitken (father), Jarvis Aitken (brother), Jarvis Aitken, Jr. (nephew);1;Minor;Female
@@ -729,7 +729,7 @@ BINGHAM;Miss;Alice Winifred;Lost;35;Second;Passenger;British;;Single;Toronto;;On
 BIRCHALL;Mr.;Henry;Saved;;Second;Passenger;British;;;Roslyn;;(?) New York;USA;;;;;;;1;Adult;Male
 BIRD;Mrs.;Lyndon (Rose Holloway);Lost;36;Second;Passenger;British;;Married;;;;England;;;;;;;1;Adult;Female
 BOOTH;Mr.;John;Lost;35;Second;Passenger;British;;;Alexandria;;Virginia;USA;;;;;;;1;Adult;Male
-BOOTH;Master;Nigel Frederick;Saved;1;Second;Passenger;British;;Single;Ottawa;;Ontario;Canada;;;;;;Emily Booth (mother);1;Infant;Male
+BOOTH;Master;Nigel Frederick;Saved;08-months;Second;Passenger;British;;Single;Ottawa;;Ontario;Canada;;;;;;Emily Booth (mother);1;Infant;Male
 BOOTH;Mrs.;Charles Harry (Emily Eliza Hadfield) ;Lost;30;Second;Passenger;British;;Married;Ottawa;;Ontario;Canada;;;;;;Nigel Booth (son);1;Adult;Female
 BOOTH-JONES;Mr.;Edward;Lost;38;Second;Passenger;British;;Married;New York;;New York;USA;;;;;;Millichamp Booth-Jones (wife), Ailsa Booth-Jones (daughter), Percival Booth-Jones (son);1;Adult;Male
 BOOTH-JONES;Master;Percival;Lost;4;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;Edward Booth-Jones (father), Millchamp Booth-Jones (mother), Ailsa Booth-Jones (sister);1;Minor;Male
@@ -742,7 +742,7 @@ BRAMMER;Mrs.;Richard H. (Elizabeth Jane Bott);Saved;32;Second;Passenger;British;
 BRAMMER;Miss;Edith;Saved;8;Second;Passenger;British;;Single;Trenton;;New Jersey;USA;;;;;;Elizabeth Brammer (mother);1;Minor;Female
 BRETHERTON;Master;Paul;Saved;3;Second;Passenger;USA;;Single;Santa Monica;;California;USA;13;Stormcock;;;C 14;Norah Bretherton (mother), Betty Bretherton (sister);1;Minor;Male
 BRETHERTON;Mrs.;Cyril Herbert Emanuel (Norah Annie Keating);Saved;32;Second;Passenger;USA;;Married;Santa Monica;;California;USA;13;Stormcock;;;C 14;Paul Bretherton (son), Betty Bretherton (daughter);1;Adult;Female
-BRETHERTON;Miss;"Elizabeth ""Betty""";Lost;2;Second;Passenger;USA;;Single;Santa Monica;;California;USA;;;156;;C 14;Norah Bretherton (mother), Paul Bretherton (brother);1;Infant;Female
+BRETHERTON;Miss;"Elizabeth ""Betty""";Lost;15-months;Second;Passenger;USA;;Single;Santa Monica;;California;USA;;;156;;C 14;Norah Bretherton (mother), Paul Bretherton (brother);1;Infant;Female
 BRILLY;Mr.;Louis;Lost;43;Second;Passenger;Italian;;Engaged;New York;;New York;USA;;;;;;;1;Adult;Male
 BROWN;Mr.;Daniel Taylor;Saved;43;Second;Passenger;British;;;Los Angeles;;California;USA;;;;;;;1;Adult;Male
 BROWNLIE;Mr.;Thomas;Lost;;Second;Passenger;British;;Married;Freeport;;Pennsylvania;USA;;;8 (DA);;;Margaret Brownlie (wife);1;Adult;Male
@@ -752,10 +752,10 @@ BRYCE;Mrs.;Hugh B. (Annabelle Anderson);Saved;33;Second;Passenger;British;;Marri
 BUCHANAN;Miss;Mary;Lost;30;Second;Passenger;British;;Single;Pottstown;;Pennsylvania;USA;;;3 (Q);;;;1;Adult;Female
 BULL;Mrs.;John Henry (Elizabeth Farrar);Lost;62;Second;Passenger;British;;Married;Hamilton;;Ontario;Canada;;;78;;;Florence Burley (daughter);1;Adult;Female
 BULLEN;Mr.;Henry Garnet;Lost;;Second;Passenger;British;;;Winnipeg;;Manitoba;Canada;;;;;;;1;Adult;Male
-BURDON;Master;Robert P.;Saved;2;Second;Passenger;British;;Single;Winnipeg;;Manitoba;Canada;15;Wanderer (Peel 12);;;;Ellen Burdon (mother);1;Infant;Male
+BURDON;Master;Robert P.;Saved;14-months;Second;Passenger;British;;Single;Winnipeg;;Manitoba;Canada;15;Wanderer (Peel 12);;;;Ellen Burdon (mother);1;Infant;Male
 BURDON;Mrs.;Andrew Thompson (Ellen Mary Rickwood);Saved;24;Second;Passenger;British;;Married;Winnipeg;;Manitoba;Canada;15;Wanderer (Peel 12);;;;Robert Burdon (son);1;Adult;Female
 BURLEY;Mr.;Reuben;Lost;39;Second;Passenger;British;;Married;Hamilton;;Ontario;Canada;;;;;;Florence Burley (wife), Doris Burley (daughter), Reginald Burley (son), Elizabeth Bull (mother-in-law);1;Adult;Male
-BURLEY;Master;Reginald;Lost;3;Second;Passenger;British;;Single;Hamilton;;Ontario;Canada;;;;;;Florence Burley (mother), Reuben Burley (father), Doris Burley (sister), Elizabeth Bull (grandmother);1;Infant;Male
+BURLEY;Master;Reginald;Lost;Infant;Second;Passenger;British;;Single;Hamilton;;Ontario;Canada;;;;;;Florence Burley (mother), Reuben Burley (father), Doris Burley (sister), Elizabeth Bull (grandmother);1;Infant;Male
 BURLEY;Mrs.;Reuben (Florence Bull);Lost;38;Second;Passenger;British;;Married;Hamilton;;Ontario;Canada;;;;;;Elizabeth Bull (mother), Reuben Burley (husband), Reginald Burley (son), Doris Burley (daughter);1;Adult;Female
 BURLEY;Miss;Doris Florence;Lost;9;Second;Passenger;British;;Single;Hamilton;;Ontario;Canada;;;;;;Florence Burley (mother), Reuben Burley (father), Reginald Burley (brother), Elizabeth Bull (grandmother);1;Minor;Female
 BUSVINE;Mr.;William Robert;Lost;34;Second;Passenger;British;;;New York;;New York;USA;;;18 (Q);;;;1;Adult;Male
@@ -780,27 +780,27 @@ CHAMBERS;Mr.;Guy Winstaney P.;Saved;36;Second;Passenger;British;;Married;Boston;
 CHAMBERS;Mrs.;Guy Winstaney P. (Ethel Paul);Lost;30;Second;Passenger;British;;Married;Boston;;Massachusetts;USA;;;165;;;Guy Chambers (husband);1;Adult;Female
 CHANTRY;Mr.;Harold;Lost;22;Second;Passenger;British;;Married;Nelson;;British Columbia;Canada;;;;;;Mina Chantry (wife), Elizabeth Chantry (daughter);1;Adult;Male
 CHANTRY;Mrs.;Harold (Mina);Lost;21;Second;Passenger;British;;Married;Nelson;;British Columbia;Canada;;;;;;Harold Chantry (husband), Elizabeth Chantry (daughter);1;Adult;Female
-CHANTRY;Miss;Elizabeth Ellen;Lost;1;Second;Passenger;British;;Single;Nelson;;British Columbia;Canada;;;;;;Harold Chantry (father), Mina Chantry (mother);1;Infant;Female
+CHANTRY;Miss;Elizabeth Ellen;Lost;3-6-months ?;Second;Passenger;British;;Single;Nelson;;British Columbia;Canada;;;;;;Harold Chantry (father), Mina Chantry (mother);1;Infant;Female
 CHARLES;Miss;Eleanor;Lost;;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;;1;Adult;Female
 CHATT;Miss;Anna;Lost;;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;;1;Adult;Female
-CHIRGWIN;Master;Richard;Lost;6;Second;Passenger;British;;Single;Havana;;;Cuba;;;;;;Maud Chirgwin (mother);1;Infant;Male
+CHIRGWIN;Master;Richard;Lost;Infant;Second;Passenger;British;;Single;Havana;;;Cuba;;;;;;Maud Chirgwin (mother);1;Infant;Male
 CHIRGWIN;Mrs.;Frederick (Maud Gertrude Cox);Lost;31;Second;Passenger;British;;Married;Havana;;;Cuba;;;88;;;Richard Chirgwin (son);1;Adult;Female
 CLARKE;Mrs.;Francis William (Nore);Lost;;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;;1;Adult;Female
 CLAY;Miss;Elizabeth Alice;Lost;44;Second;Passenger;British;;Single;San Francisco;;California;USA;;;180;;;;1;Adult;Female
 CLAYTON;Mr.;William;Lost;;Second;Passenger;British;;Married;Vancouver;;British Columbia;Canada;;;;;;Mrs. Clayton (wife);1;Adult;Male
 CLAYTON;Mrs.;William (?);Lost;;Second;Passenger;British;;Married;Vancouver;;British Columbia;Canada;;;;;;William Clayton (husband);1;Adult;Female
 COCKBURN;Mr.;Guy Rosebery;Saved;31;Second;Passenger;British;;;Pasadena;;California;USA;;;;;;;1;Adult;Male
-COLBERT;Mr.;William F.;Lost;50;Second;Passenger;British (Irish)/USA;;Married;New York;;New York;USA;;;195;;;Helena Colbert (wife);1;Adult;Male
-COLBERT;Mrs.;William F. (Helena M. Sherlock);Lost;50;Second;Passenger;British (Irish)/USA;;Married;New York;;New York;USA;;;;;;William Colbert (husband);1;Adult;Female
-COLEMAN;Miss;Susan;Saved;22;Second;Passenger;British;;Single;Brooklyn;;New York;USA;;;;;;;1;Adult;Female
+COLBERT;Mr.;William F.;Lost;51 or 47;Second;Passenger;British (Irish)/USA;;Married;New York;;New York;USA;;;195;;;Helena Colbert (wife);1;Adult;Male
+COLBERT;Mrs.;William F. (Helena M. Sherlock);Lost;45 or 51;Second;Passenger;British (Irish)/USA;;Married;New York;;New York;USA;;;;;;William Colbert (husband);1;Adult;Female
+COLEMAN;Miss;Susan;Saved;22 (?);Second;Passenger;British;;Single;Brooklyn;;New York;USA;;;;;;;1;Adult;Female
 COLLIS;Mr.;Edwin Martin;Saved;38;Second;Passenger;USA;;;Riverside;;California;USA;;;;;;;1;Adult;Male
 CONDON;Mrs.;Terrence (Delia Josephine Doyle);Lost;28;Second;Passenger;USA;;Married;New York;;New York;USA;;;143;;;;1;Adult;Female
 COSTELLO;Miss;Mary;Lost;;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;;1;Adult;Female
 COWPER;Mr.;Ernest Sedgwick;Saved;32;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;13;Stormcock;;;;Richard Rogers (boss);1;Adult;Male
-COX;Master;Desmond Francis;Saved;2;Second;Passenger;British (Irish);;Single;Winnipeg;;Manitoba;Canada;15?;;;;;Margaret Cox (mother);1;Infant;Male
+COX;Master;Desmond Francis;Saved;17-months;Second;Passenger;British (Irish);;Single;Winnipeg;;Manitoba;Canada;15?;;;;;Margaret Cox (mother);1;Infant;Male
 COX;Mrs.;Samuel J. (Margaret Elizabeth Robinson);Saved;27;Second;Passenger;British (Irish);;Married;Winnipeg;;Manitoba;Canada;15?;;;;;Desmond Cox (son);1;Adult;Female
 CRITCHISON;Mr.;Stanley Lascelles;Saved;31;Second;Passenger;British;;Married;Hamilton;;Ontario;Canada;;Heron;;;;Lilian Critchison (wife), Bernard Critchison (son);1;Adult;Male
-CRITCHISON;Master;Bernard;Lost;2;Second;Passenger;British;;Single;Hamilton;;Ontario;Canada;;;;;;Stanley Critchison (father), Lilian Critchison (mother);1;Infant;Male
+CRITCHISON;Master;Bernard;Lost;13-months;Second;Passenger;British;;Single;Hamilton;;Ontario;Canada;;;;;;Stanley Critchison (father), Lilian Critchison (mother);1;Infant;Male
 CRITCHISON;Mrs.;Stanley Lascelles (Lilian Hayes);Lost;;Second;Passenger;British;;Married;Hamilton;;Ontario;Canada;;;;;;Stanley Critchison (husband), Bernard Critchison (son);1;Adult;Female
 CROSBY;Miss;Ellen;Lost;36;Second;Passenger;British;;Single;Vancouver;;British Columbia;Canada;;;133;;;Annie Crosby?;1;Adult;Female
 CROSBY;Miss;Annie;Lost;;Second;Passenger;British;;Single;Vancouver;;British Columbia;Canada;;;;;;Ellen Crosby?;1;Adult;Female
@@ -816,7 +816,7 @@ DINGLEY;Mrs.;Edward (Katherine S. Glenn);Lost;40;Second;Passenger;British;;Marri
 DIXON;Mr.;Arthur;Lost;;Second;Passenger;British;;Married;England;;;England;;;;;;Bertha Dixon (wife), Stanley Dixon (son);1;Adult;Male
 DIXON;Master;Stanley;Lost;6;Second;Passenger;British;;Single;England;;;England;;;;;;Bertha Dixon (mother), Arthur Dixon (father);1;Minor;Male
 DIXON;Mrs.;Arthur (Bertha);Saved;;Second;Passenger;British;;Married;England;;;England;;;;;;Arthur Dixon (husband), Stanley Dixon (son);1;Adult;Female
-DOCHERTY;Master;Thomas William, Jr.;Saved;1;Second;Passenger;USA;;Single;New York;;New York;USA;11;Flying Fish;;;;Mabel Docherty (mother);1;Infant;Male
+DOCHERTY;Master;Thomas William, Jr.;Saved;02-months;Second;Passenger;USA;;Single;New York;;New York;USA;11;Flying Fish;;;;Mabel Docherty (mother);1;Infant;Male
 DOCHERTY;Mrs.;"William (Mabel ""Millie"" Irving)";Saved;29;Second;Passenger;USA;;Married;New York;;New York;USA;11;Flying Fish;;;;William Docherty, Jr. (son);1;Adult;Female
 DODD;Miss;Dorothy;Saved;;Second;Passenger;British;;Single;Edmonton;;Alberta;Canada;;;;;;;1;Adult;Female
 DOLPHIN;Miss;Avis Gertrude;Saved;12;Second;Passenger;British;;Single;St. Thomas;;Ontario;Canada;17;;;;D deck;Sarah Smith, Hilda Ellis (chaperones);1;Minor;Female
@@ -835,15 +835,15 @@ ELLIS;Miss;Hilda;Lost;;Second;Passenger;British;;Single;St. Thomas;;Ontario;Cana
 EWART;Mr.;Robert James;Saved;36;Second;Passenger;USA;;Single;Brooklyn;;New York;USA;;;;;;;1;Adult;Male
 EXLEY;Miss;Ida;Lost;19;Second;Passenger;British;;Single;North Braintree;;Massachusetts;USA;;;;;;;1;Adult;Female
 FENTIMAN;Miss;Nellie;Lost;33;Second;Passenger;British;;Single;Manchester;;(?) Massachusetts;USA;;;148;;;;1;Adult;Female
-FERGUSON;Mr.;John;Lost;49;Second;Passenger;USA;;Single;New York;;New York;USA;;;;;;;1;Adult;Male
+FERGUSON;Mr.;John;Lost;49 ?;Second;Passenger;USA;;Single;New York;;New York;USA;;;;;;;1;Adult;Male
 FERRIER;Mr.;Alexander Hubert Buxton;Lost;33;Second;Passenger;British;;Married;Penticton;;British Columbia;Canada;;;;;;Beata Ferrier (wife), Sheila Ferrier (daughter);1;Adult;Male
 FERRIER;Mrs.;Alexander Hubert Buxton (Mary Beata Elizabeth Hayter Stevens);Saved;21;Second;Passenger;British;;Married;Penticton;;British Columbia;Canada;;;;;;Alexander Ferrier (husband), Sheila Ferrier (daughter);1;Adult;Female
-FERRIER;Miss;Sheila;Lost;2;Second;Passenger;British;;Single;Penticton;;British Columbia;Canada;;;123;;;Beata Ferrier (mother), Alexander Ferrier (father);1;Infant;Female
+FERRIER;Miss;Sheila;Lost;13-months;Second;Passenger;British;;Single;Penticton;;British Columbia;Canada;;;123;;;Beata Ferrier (mother), Alexander Ferrier (father);1;Infant;Female
 FINCH;Mrs.;William (Eva Eliza);Lost;29;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;85;;;;1;Adult;Female
 FISH;Mrs.;"Joseph ""John E."" (Sarah Mary Rogers, sister of Elizabeth Rogers)";Saved;;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;15;Wanderer (Peel 12);;;;Elizabeth Rogers (sister), Sadie Fish, Marion Fish, Joan Fish (daughters);1;Adult;Female
 FISH;Miss;Marion Enid;Saved;8;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;15;Wanderer (Peel 12);;;;Sarah Fish (mother), Sadie Fish, Joan Fish (sisters), Elizabeth Rogers (aunt);1;Minor;Female
 FISH;Miss;Sadie Eileen;Saved;10;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;15;Wanderer (Peel 12);;;;Sarah Fish (mother), Marion Fish, Joan Fish (sisters), Elizabeth Rogers (aunt);1;Minor;Female
-FISH;Miss;Joan;Lost;1;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Sarah Fish (mother), Sadie Fish, Marion Fish (sisters), Elizabeth Rogers (aunt);1;Infant;Female
+FISH;Miss;Joan;Lost;05-months;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Sarah Fish (mother), Sadie Fish, Marion Fish (sisters), Elizabeth Rogers (aunt);1;Infant;Female
 FOLEY;Mr.;Arthur Richard;Lost;51;Second;Passenger;USA;;;Trenton;;New Jersey;USA;;;36;;;;1;Adult;Male
 FOSS;Dr.;Carl Elmer ;Saved;27;Second;Passenger;USA;;Married;Harlem;;Montana;USA;;Indian Empire;;;;;1;Adult;Male
 FOX;Mr.;Francis Edwin;Lost;30;Second;Passenger;British;;Married;Trenton;;New Jersey;USA;;;;;;Emily Fox (wife);1;Adult;Male
@@ -870,7 +870,7 @@ GLANCY;Mr.;Joseph;Saved;43;Second;Passenger;British (Irish);;;Toronto;;Ontario;C
 GOODMAN;Mr.;Arthur;Lost;;Second;Passenger;British;;;Rochester;;New York;USA;;;;;;;1;Adult;Male
 GRANDIDGE;Mrs.;Arthur (Nancie B. May);Lost;26;Second;Passenger;British;;Married;Yonkers;;New York;USA;;;155;;;Eva Grandidge (daughter);1;Adult;Female
 GRANDIDGE;Miss;Eva Mary;Lost;3;Second;Passenger;British;;Single;Yonkers;;New York;USA;;;;;;Nancie Grandidge (mother);1;Minor;Female
-GRAY;Mr.;James Paul;Saved;59;Second;Passenger;British;;Married;Oakland;;California;USA;overturned collapsible;Indian Empire;;;;Terence Gray (daughter-in-law), Stuart Gray (grandson);1;Adult;Male
+GRAY;Mr.;James Paul;Saved;59 (64?);Second;Passenger;British;;Married;Oakland;;California;USA;overturned collapsible;Indian Empire;;;;Terence Gray (daughter-in-law), Stuart Gray (grandson);1;Adult;Male
 GRAY;Mr.;Robert Duncan;Saved;35;Second;Passenger;British;;;Brooklyn;;New York;USA;;;;;C 28?;;1;Adult;Male
 GRAY;Master;Stuart James;Lost;4;Second;Passenger;USA;;Single;Los Angeles;;California;USA;;;;;;Terence Gray (mother), James Gray (grandfather);1;Minor;Male
 GRAY;Mrs.;William Hiram (Terence Florence Healey);Lost;24;Second;Passenger;USA;;Married;Los Angeles;;California;USA;;;;;;James Gray (father-in-law), Stuart Gray (son);1;Adult;Female
@@ -878,7 +878,7 @@ GREENWOOD;Master;Ronald Sutcliffe;Lost;11;Second;Passenger;USA;;Single;Lawrence;
 GRIFFITHS;Mr.;Christopher William;Saved;32;Second;Passenger;British;;;Winnipeg or Pittsburgh;;Manitoba or Pennsylvania;Canada or USA;;;;;;;1;Adult;Male
 GRIMSHAW;Mr.;Arthur;Lost;18;Second;Passenger;British;;;Brooklyn;;New York;USA;;;;;;;1;Adult;Male
 GROVES;Mr.;Sydney Frederick;Lost;28;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Clara Groves (wife), Frederick Groves (son);1;Adult;Male
-GROVES;Master;Frederick;Lost;2;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Sydney Groves (father), Clara Groves (mother);1;Infant;Male
+GROVES;Master;Frederick;Lost;1,5;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Sydney Groves (father), Clara Groves (mother);1;Infant;Male
 GROVES;Mrs.;Sydney Frederick (Clara Lee);Lost;27;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;166;;;Sydney Groves (husband), Frederick Groves (son);1;Adult;Female
 GWYER;Reverend;Herbert Linford;Saved;32;Second;Passenger;British;;Married;Saskatoon;;Saskatchewan;Canada;15;Wanderer (Peel 12), Flying Fish;;;;Margaret Gwyer (wife);1;Adult;Male
 GWYER;Mrs.;Herbert Linford (Margaret Inglis Adams Cairns);Saved;26;Second;Passenger;British;;Married;Saskatoon;;Saskatchewan;Canada;15, collapsible;Flying Fish;;;;Herbert Gwyer (husband);1;Adult;Female
@@ -891,10 +891,10 @@ HANSON;Mr.;Samuel;Lost;51;Second;Passenger;British;;Married;Central Falls;;Rhode
 HANSON;Mrs.;Samuel (Mary Harrison);Lost;59;Second;Passenger;British;;Married;Central Falls;;Rhode Island;USA;;;72;;;Samuel Hanson (husband);1;Adult;Female
 HARDY;Miss;Elsie;Saved;25;Second;Passenger;British;;Single;Montclair;;New Jersey;USA;;;;;;;1;Adult;Female
 HARE;Miss;Bessie;Lost;27;Second;Passenger;British;;Single;New York;;New York;USA;;;95;;;;1;Adult;Female
-HARRIS;Mr.;Reuben;Lost;63;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Emma Harris (wife);1;Adult;Male
+HARRIS;Mr.;Reuben;Lost;63 (51?);Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Emma Harris (wife);1;Adult;Male
 HARRIS;Mrs.;Reuben (Emma);Lost;61;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Reuben Harris (husband);1;Adult;Female
 HARRISON;Mr.;James;Lost;48;Second;Passenger;British;;;New York;;New York;USA;;;168;;;;1;Adult;Male
-HARRISON;Mr.;Herbert Kesteven;Lost;37;Second;Passenger;British;;Single;Chicago;;Illinois;USA;;;;;;;1;Adult;Male
+HARRISON;Mr.;Herbert Kesteven;Lost;37 (39?);Second;Passenger;British;;Single;Chicago;;Illinois;USA;;;;;;;1;Adult;Male
 HASTINGS;Mrs.;David (Margaret Anderson Gardiner);Lost;40;Second;Passenger;British (Irish);;Widowed;New Rochelle;;New York;USA;;;;;;;1;Adult;Female
 HENDERSON;Master;"Harris ""Huntley""";Saved;10;Second;Passenger;British;;Single;Montréal;;Quebec;Canada;;;;;;Violet Henderson (mother);1;Minor;Male
 HENDERSON;Mrs.;"Harris ""Huntley"" Russell (Violet Alice Yeatman)";Saved;32;Second;Passenger;British;;Married;Montréal;;Quebec;Canada;;;;;;Huntley Henderson (son);1;Adult;Female
@@ -902,26 +902,26 @@ HENDRICKSON;Mr.;Knud I.;Lost;;Second;Passenger;British;;;Edmonton;;Alberta;Canad
 HENN;Mr.;Ernest George;Lost;35;Second;Passenger;British;;Married;Saskatoon;;Saskatchewan;Canada;;;144;;;Edith Henn (wife);1;Adult;Male
 HENN;Mrs.;Ernest George (Edith Mabel Fisher);Lost;27;Second;Passenger;British;;Married;Saskatoon;;Saskatchewan;Canada;;;8 (Q);;;Ernest Henn (husband);1;Adult;Female
 HENSHAW;Mrs.;George (Mabel Iris Baker);Saved;27;Second;Passenger;British;;Married;Saskatoon;;Saskatchewan;Canada;;Bluebell;;;;Mary Henshaw (daughter);1;Adult;Female
-HENSHAW;Miss;Mary (Constance?);Lost;1;Second;Passenger;British;;Single;Saskatoon;;Saskatchewan;Canada;;;;;;Mabel Henshaw (mother);1;Infant;Female
+HENSHAW;Miss;Mary (Constance?);Lost;05-months;Second;Passenger;British;;Single;Saskatoon;;Saskatchewan;Canada;;;;;;Mabel Henshaw (mother);1;Infant;Female
 HERBERT;Mrs.;E. V. (Florence);Lost;26;Second;Passenger;British;;Married;London;;Ontario;Canada;;;;;;;1;Adult;Female
-HERTZ;Mr.;Douglas Grant;Saved;32;Second;Passenger;British;;;St. Louis;;Missouri;USA;22;Julia;;;;;1;Adult;Male
+HERTZ;Mr.;Douglas Grant;Saved;32 (22?);Second;Passenger;British;;;St. Louis;;Missouri;USA;22;Julia;;;;;1;Adult;Male
 HIGGINBOTTOM;Miss;"Mary ""Polly""";Lost;;Second;Passenger;British;;Single;Fall River;;Massachusetts;USA;;;;;Roommates with Pheobe Amory and Martha Whyatt;;1;Adult;Female
-HILL;Mrs.;"Richard (Emma ""Emmie"" Jane Haynes)";Saved;31;Second;Passenger;British;;Married;Schenectady;;New York;USA;15;Wanderer (Peel 12);;;;;1;Adult;Female
+HILL;Mrs.;"Richard (Emma ""Emmie"" Jane Haynes)";Saved;31 (32?);Second;Passenger;British;;Married;Schenectady;;New York;USA;15;Wanderer (Peel 12);;;;;1;Adult;Female
 HILL;Mr.;William Spencer;Saved;29;Second;Passenger;British;;;Wales;;;Wales;;;;;;George Davies, Gwynn Jones, George Lane, Dewi Michael, Thomas Williams (Welsh choir), John Preston-Smith (unofficial member);1;Adult;Male
 HOGG;Mrs.;Ellen;Saved;28;Second;Passenger;British;;Married;New York;;New York;USA;15;Wanderer (Peel 12);;;;;1;Adult;Female
 HOLBOURN;Professor;"John ""Ian"" Bernard Stoughton";Saved;43;Second;Passenger;British;;Married;Edinburgh and Isle of Foula;;;Scotland;15;Wanderer (Peel 12), Stormcock;;;C 10;;1;Adult;Male
 HOLLAND;Mrs.;H. Hedley L. (Nina);Saved;34;Second;Passenger;USA;;Married;New York;;New York;USA;;;;;;;1;Adult;Female
 HOMEWOOD;Mr.;William Thomas;Lost;30;Second;Passenger;British;;;Toledo;;Ohio;USA;;;;;;;1;Adult;Male
-HOPKINS;Mr.;David Thomas;Lost;25;Second;Passenger;British;;;Wales;;;Wales;;;;;;;1;Adult;Male
+HOPKINS;Mr.;David Thomas;Lost;25 ?;Second;Passenger;British;;;Wales;;;Wales;;;;;;;1;Adult;Male
 HOPKINS;Miss;Alice Eliza;Lost;33;Second;Passenger;British;;Single;Boston;;Massachusetts;USA;;;187;;;Kate Hopkins (?);1;Adult;Female
 HOPKINS;Miss;Kate Mary;Lost;35;Second;Passenger;British;;Single;Boston;;Massachusetts;USA;;;5 (Q);;;Alice Hopkins (?);1;Adult;Female
 HORSBURGH;Miss;Martha;Lost;21;Second;Passenger;British;;Single;Bernardsville;;(?) New York;USA;;;;;;;1;Adult;Female
 HORTON;Mrs.;Edwin (Elizabeth);Lost;51;Second;Passenger;British;;Married;Sheffield;;;England;;;77;;;;1;Adult;Female
 HOSKINS;Mr.;Arthur;Saved;;Second;Passenger;British;;;Montréal;;Quebec;Canada;;;;;;;1;Adult;Male
 HOUNSELL;Mr.;Edgar Cyril;Saved;28;Second;Passenger;British;;;England;;;England;;;;;;;1;Adult;Male
-HUBBARD;Mr.;Frederick Cole Amos;Lost;24;Second;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
+HUBBARD;Mr.;Frederick Cole Amos;Lost;24 (23?);Second;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 HULL;Mrs.;George (Winifred Keeling);Saved;33;Second;Passenger;British;;Married;Winnipeg;;Manitoba;Canada;;;;;;;1;Adult;Female
-HUME;Mrs.;Samuel Elliott (Mary Agnes Elliott);Lost;27;Second;Passenger;USA;;Married;Harrison;;New Jersey;USA;;;;;;;1;Adult;Female
+HUME;Mrs.;Samuel Elliott (Mary Agnes Elliott);Lost;27?;Second;Passenger;USA;;Married;Harrison;;New Jersey;USA;;;;;;;1;Adult;Female
 HUMPHREYS;Mr.;Henry St. Giles;Lost;;Second;Passenger;British;;;Los Angeles;;California;USA;;;;;;;1;Adult;Male
 HUNT;Miss;Isabella Gertrude;Lost;37;Second;Passenger;British;;Single;Haverford;;Pennsylvania;USA;;;205;;;;1;Adult;Female
 HUNTER;Mr.;George Hardie;Lost;36;Second;Passenger;British;;Married;Atlanta;;Georgia;USA;;;;;;Maggie Hunter (wife);1;Adult;Male
@@ -934,7 +934,7 @@ JONES;Mr.;"William ""Parry"" Gwynn(e)";Saved;24;Second;Passenger;British;;;Blain
 JONES;Mr.;Patrick Llewellynn;Lost;28;Second;Passenger;British;;;England;;;England;;;94;;;;1;Adult;Male
 JONES;Mr.;Fred;Lost;;Second;Passenger;British;;;Winnipeg;;Manitoba;Canada;;;;;;;1;Adult;Male
 JONES;Mr.;"Isaac ""Ike"" Talbot";Lost;;Second;Passenger;British;;;Wales;;;Wales;;;;;;;1;Adult;Male
-JONES;Master;William Edward;Lost;2;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Ellen Jones (mother);1;Infant;Male
+JONES;Master;William Edward;Lost;15-months;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Ellen Jones (mother);1;Infant;Male
 JONES;Miss; Gwendolyn;Lost;29;Second;Passenger;British;;Single;San Francisco;;California;USA;;;;;;;1;Adult;Female
 JONES;Mrs.;Alfred (Ellen);Lost;;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;William Jones (son);1;Adult;Female
 JUDSON;Mr.;Frederick Sheldon;Saved;25;Second;Passenger;USA;;;New York;;New York;USA;;;;;;;1;Adult;Male
@@ -942,7 +942,7 @@ KAY;Master;Robert Belsher;Saved;7;Second;Passenger;British;;Single;Bronx;;New Yo
 KAY;Mrs.;James (Marguerita Belsher);Lost;31;Second;Passenger;British;;Married;Bronx;;New York;USA;;;;;;Robert Kay (son);1;Adult;Female
 KAYE;Miss;Kathleen (Hannah Ermine Kathleen Kirschbaum);Saved;16;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;;1;Minor;Female
 KEELY;Miss;Annie;Lost;;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;;1;Adult;Female
-KELLY;Mr.;James Robert;Lost;42;Second;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
+KELLY;Mr.;James Robert;Lost;42?;Second;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 KELLY;Miss;Margaret S.;Lost;34;Second;Passenger;USA;;Single;Pittsburgh;;Pennsylvania;USA;;;125;;;;1;Adult;Female
 KENNEY;Mrs.;Peter (Margaret);Lost;32;Second;Passenger;British (Irish);;Widowed;Charlestown;;;USA;;;;;;Mary Kenney (daughter);1;Adult;Female
 KENNEY;Miss;Mary Bridget;Lost;2;Second;Passenger;British (Irish)/USA;;Single;Charlestown;;;USA;;;;;;Margaret Kenney (mother);1;Minor;Female
@@ -973,7 +973,7 @@ LINES;Mrs.;Stanley Llandolf Burnett (Ethel Moore Lamping);Saved;34;Second;Passen
 LINES;Mr.;Stanley Llandolf Burnett;Saved;30;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Ethel Lines (wife);1;Adult;Male
 LINTOTT;Mr.;Roy Iver;Lost;21;Second;Passenger;British;;;Calgary;;Alberta;Canada;;;;;;;1;Adult;Male
 LITTLE;Mrs.;J. (Margaret);Lost;24;Second;Passenger;British;;Married;Brooklyn;;New York;USA;;;;;;Alice Little (daughter);1;Adult;Female
-LITTLE;Miss;Alice Laura;Lost;2;Second;Passenger;British;;Single;Brooklyn;;New York;USA;;;;;;Margaret Little (mother);1;Infant;Female
+LITTLE;Miss;Alice Laura;Lost;14-months;Second;Passenger;British;;Single;Brooklyn;;New York;USA;;;;;;Margaret Little (mother);1;Infant;Female
 LOHDEN;Mrs.;H. Arnold (Sarah Rose Mary Arnold);Saved;38;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Rose Lohden (daughter);1;Adult;Female
 LOHDEN;Miss;Rose Elsie;Saved;11;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Sarah Lohden (mother);1;Minor;Female
 LONGDIN;Mr.;Arthur;Lost;39;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Matilda Longdin (wife);1;Adult;Male
@@ -1008,14 +1008,14 @@ MARICHAL;Master;Maurice;Saved;;Second;Passenger;French;;Single;Kingston;;Ontario
 MARICHAL;Mrs.;Joseph Phillibert René (Yvonne Jessie Emerson);Saved;39;Second;Passenger;French;;Married;Kingston;;Ontario;Canada;21;Wanderer (Peel 12);;;;Joseph Marichal (husband), Eve Marichal (daughter), Phyllis Marichal (daughter), Maurice Marichal (son);1;Adult;Female
 MARICHAL;Miss;Phyllis Renée;Saved;2;Second;Passenger;French;;Single;Kingston;;Ontario;Canada;21;Wanderer (Peel 12);;;;Joseph Marichal (father), Jessie Marichal (mother), Eve Marichal (sister), Maurice Marichal (brother);1;Minor;Female
 MARICHAL;Miss;"Yvonne ""Eve""";Saved;6;Second;Passenger;French;;Single;Kingston;;Ontario;Canada;21;Wanderer (Peel 12);;;;Joseph Marichal (father), Jessie Marichal (mother), Phyllis Marichal (sister), Maurice Marichal (brother);1;Minor;Female
-MARTIN;Mr.;Charles D.;Lost;31;Second;Passenger;British;;;Pittsburgh;;Pennsylvania;USA;;;;;;;1;Adult;Male
+MARTIN;Mr.;Charles D.;Lost;31 ?;Second;Passenger;British;;;Pittsburgh;;Pennsylvania;USA;;;;;;;1;Adult;Male
 MARTIN;Miss;Ruby;Saved;26;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;;1;Adult;Female
 MARTIN-DAVEY;Mr.;Arthur;Lost;18;Second;Passenger;British;;Single;Vancouver;;British Columbia;Canada;;;;;;William Martin-Davey (father), Elizabeth Martin-Davey (mother);1;Adult;Male
 MARTIN-DAVEY;Mr.;William (Elizabeth Cumbe Heard);Lost;53;Second;Passenger;British;;Married;Vancouver;;British Columbia;Canada;;;35;;;William Martin-Davey (husband), Arthur Martin-Davey (son);1;Adult;Male
 MARTIN-DAVEY;Mr.;William;Lost;;Second;Passenger;British;;Married;Vancouver;;British Columbia;Canada;;;;;;Elizabeth Martin-Davey (wife), Arthur Martin-Davey (son);1;Adult;Male
 MATTHEWS;Lieutenant;Robert;Lost;34;Second;Passenger;British;;Married;Winnipeg;;Manitoba;Canada;;;1 (K);;;"Annie ""Matthews"" (mistress)";1;Adult;Male
 MATTHEWS;Mrs.;Robert (Annie);Lost;;Second;Passenger;British;;;Winnipeg;;Manitoba;Canada;;;;;;Annie was Robert's mistress, not wife.  The real Mrs. Matthews was in Canada.;1;Adult;Female
-MATTHEWSON;Master;Joseph;Lost;1;Second;Passenger;British;;Single;Springfield;;;USA;;;;;;Maud Matthewson (mother);1;Infant;Male
+MATTHEWSON;Master;Joseph;Lost;08-months;Second;Passenger;British;;Single;Springfield;;;USA;;;;;;Maud Matthewson (mother);1;Infant;Male
 MATTHEWSON;Mrs.;Maud E. S.;Lost;;Second;Passenger;British;;Married;Springfield;;;USA;;;;;;Joseph Matthewson (son);1;Adult;Female
 MAYCOCK;Miss;Mary;Saved;23;Second;Passenger;British;;Single;Harrison;;New Jersey;USA;;;;;;;1;Adult;Female
 McCLINTOCK;Miss;Margaret;Saved;31;Second;Passenger;British (Irish);;Single;New York;;New York;USA;;;;;;;1;Adult;Female
@@ -1023,14 +1023,14 @@ McCLURE;Miss;Margaret;Lost;;Second;Passenger;British;;Single;New York;;New York;
 McCOLM;Mrs.;James A. (Christina Harrow S. Rae);Saved;38;Second;Passenger;British;;Married;Ottawa;;Ontario;Canada;;;;;;;1;Adult;Female
 McCORKINDALE;Master;Duncan;Lost;7;Second;Passenger;British;;Single;Chromo;;Colorado;USA;;;;;;;1;Minor;Male
 McCORKINDALE;Mrs.;Daniel (Elizabeth Ritchie);Lost;33;Second;Passenger;British;;Married;Chromo;;Colorado;USA;;;;;;;1;Adult;Female
-McCORKINDALE;Miss;Mary;Lost;3;Second;Passenger;British;;Single;Chromo;;Colorado;USA;;;;;;;1;Infant;Female
+McCORKINDALE;Miss;Mary;Lost;Infant;Second;Passenger;British;;Single;Chromo;;Colorado;USA;;;;;;;1;Infant;Female
 McDONNELL;Miss;"Kate ""Kitty""";Saved;25;Second;Passenger;British (Irish);;Single;New York;;New York;USA;;;;;;May Barrett (flatmate);1;Adult;Female
 McEVOY;Mr.;Henry;Lost;;Second;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 McFAYDEN;Mr.;Hugh;Saved;24;Second;Passenger;British;;;Galt;;Ontario;Canada;;;;;;;1;Adult;Male
 McGINLEY;Mr.;Patrick Vincent;Saved;32;Second;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 McGOVERN;Miss;"Mary G. ""Mazie""";Lost;21;Second;Passenger;USA;;Single;Bloomfield;;New Jersey;USA;;;;;;;1;Adult;Female
 McILROY;Mr.;Archibald;Lost;;Second;Passenger;British;;;Edmonton;;Alberta;Canada;;;;;;;1;Adult;Male
-McKECHAN;Master;Campbell Ballantyne;Saved (died from trauma);1;Second;Passenger;British/USA;;Single;Gillespie;;Illinois;USA;;;;;;;1;Infant;Male
+McKECHAN;Master;Campbell Ballantyne;Saved (died from trauma);10-months;Second;Passenger;British/USA;;Single;Gillespie;;Illinois;USA;;;;;;;1;Infant;Male
 McKECHAN;Master;James;Lost;6;Second;Passenger;British/USA;;Single;Gillespie;;Illinois;USA;;;;;;;1;Minor;Male
 McKECHAN;Mrs.;Robert (Elizabeth Ballantyne);Saved;32;Second;Passenger;British/USA;;Married;Gillespie;;Illinois;USA;;;;;;;1;Adult;Female
 McKINNON;Mrs.;Robert (Jeanie Gilmour Beith);Lost;27;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;;1;Adult;Female
@@ -1039,7 +1039,7 @@ McPARTLIN;Mr.;Myles;Lost;;Second;Passenger;USA;;;New York;;New York;USA;;;;;;;1;
 MECREDY;Dr.;Ralph Jack Richard, Jr.;Saved;26;Second;Passenger;British;;;Dublin;;;Ireland;;trawler;;;;;1;Adult;Male
 MENZIES;Miss;Isabella;Lost;57;Second;Passenger;British;;Single;Yakima;;Washington;USA;;;;;;;1;Adult;Female
 MERIHEINA;Mr.;William Uno;Saved;26;Second;Passenger;Russian;;;New York;;New York;USA;;;;;;;1;Adult;Male
-MICHAEL;Mr.;Dewi;Saved;38;Second;Passenger;British;;;;;;England;;;;;;George Davies, William Hill, Gwynn Jones, George Lane, Thomas Williams (Welsh choir), John Preston-Smith (unofficial member);1;Adult;Male
+MICHAEL;Mr.;Dewi;Saved;38 (?);Second;Passenger;British;;;;;;England;;;;;;George Davies, William Hill, Gwynn Jones, George Lane, Thomas Williams (Welsh choir), John Preston-Smith (unofficial member);1;Adult;Male
 MIDDLEMAST;Mrs.;Edward (Isabella L. Woodget);Saved;32;Second;Passenger;British;;Married;Regina;;Saskatchewan;Canada;;;;;;;1;Adult;Female
 MIDDLETON;Miss;Alice;Saved;25;Second;Passenger;British;;Single;Seattle;;Washington;USA;;;;;;;1;Adult;Female
 MILFORD;Mr.;Frederick John;Saved;36;Second;Passenger;USA;;;Hancock;;Michigan;USA;;Flying Fish;;;;;1;Adult;Male
@@ -1047,7 +1047,7 @@ MILLAR;Mrs.;Aubrey M. (Margaret Todd);Lost;42;Second;Passenger;British;;Widowed;
 MITCHELHILL;Mr.;William (Mitchell Hill);Lost;44;Second;Passenger;British;;;St. Joseph;;Missouri;USA;;;;;;;1;Adult;Male
 MITCHELL;Mr.;Arthur Jackson ;Saved;45;Second;Passenger;USA;;;Toronto;;Ontario;Canada;15;Wanderer (Peel 12);;;E deck;;1;Adult;Male
 MITCHELL;Mr.;Walter Dawson;Lost;27;Second;Passenger;British (Irish);;Married;Newark;;New Jersey;USA;;;56;;;Jeanette Mitchell (wife), Walter Mitchell, Jr. (son), John Moore (brother-in-law);1;Adult;Male
-MITCHELL;Master;Walter Dawson, Jr.;Lost;1;Second;Passenger;USA;;Single;Newark;;New Jersey;USA;;;122;;;Walter Mitchell (father), Jeanette Mitchell (mother), John Moore (uncle);1;Infant;Male
+MITCHELL;Master;Walter Dawson, Jr.;Lost;10-months;Second;Passenger;USA;;Single;Newark;;New Jersey;USA;;;122;;;Walter Mitchell (father), Jeanette Mitchell (mother), John Moore (uncle);1;Infant;Male
 MITCHELL;Mrs.;"Walter Dawson (Jeanette ""Nettie"" Elizabeth Moore)";Saved;27;Second;Passenger;British (Irish);;Married;Newark;;New Jersey;USA;;Indian Empire (?);;;;Walter Mitchell (husband), Walter Mitchell, Jr. (son), John Moore (brother);1;Adult;Female
 MOFFATT;Mr.;William;Lost;;Second;Passenger;British;;;Winchester;;;Canada;;;;;;;1;Adult;Male
 MOLLOY;Miss;Margaret;Lost;;Second;Passenger;British (Irish);;Single;New York;;New York;USA;;;;;;;1;Adult;Female
@@ -1059,7 +1059,7 @@ MOORE;Mr.;Edwin;Lost;62;Second;Passenger;British;;Married;Central Falls;;Rhode I
 MOORE;Mr.;Ernest;Lost;;Second;Passenger;British;;;Moose Jaw;;Saskatchewan;Canada;;;;;;;1;Adult;Male
 MORRIS;Reverend;Hugh Carlton Syddall;Saved;32;Second;Passenger;British;;;Toronto;;Ontario;Canada;;;;;;;1;Adult;Male
 MOUNSEY;Mr.;William Edgar;Lost;58;Second;Passenger;USA ? or British;;Widowed;Chicago;;Illinois;USA;;;;;;Sarah Lund (daughter), Charles Lund (son-in-law);1;Adult;Male
-MUIR;Mr.;Matthew;Saved;62;Second;Passenger;British;;;Philadelphia;;Pennsylvania;USA;;;;;;;1;Adult;Male
+MUIR;Mr.;Matthew;Saved;62 (?);Second;Passenger;British;;;Philadelphia;;Pennsylvania;USA;;;;;;;1;Adult;Male
 MURDOCH;Miss;Jessie;Saved;34;Second;Passenger;British;;Single;Westbury;;New York;USA;;;;;;;1;Adult;Female
 MURRAY;Mrs.;Christopher (Rose Ellen McGinley);Saved;30;Second;Passenger;USA;;Married;New York;;New York;USA;;;;;;;1;Adult;Female
 MUSTOE-KINCH;Mr.;William;Lost;19;Second;Passenger;British;;Single;Cleveland;;Ohio;USA;;;;;D 92;Eunice Kinch (mother);1;Adult;Male
@@ -1090,7 +1090,7 @@ OWENS;Master;Ronald (son of Cecelia Owens);Lost;10;Second;Passenger;British;;Sin
 PAGE;Mr.;Andrew;Saved;30;Second;Passenger;British;;;Medicine Hat;;Alberta;Canada;;;;;;;1;Adult;Male
 PALMER;Mr.;Albert;Lost;;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Annie Palmer (wife), Edgar Palmer (son), Olive Palmer (daughter), Albert Palmer (son);1;Adult;Male
 PALMER;Mr.;Frank Arthur;Lost;;Second;Passenger;British;;Single;North Augusta;;South Carolina;USA;;;;;;Kathleen Palmer (sister?);1;Adult;Male
-PALMER;Master;Albert;Lost;1;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;179;;;Albert Palmer (father), Annie Palmer (mother), Edgar Palmer (brother), Olive Palmer (sister);1;Infant;Male
+PALMER;Master;Albert;Lost;06-months;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;179;;;Albert Palmer (father), Annie Palmer (mother), Edgar Palmer (brother), Olive Palmer (sister);1;Infant;Male
 PALMER;Master;Edgar;Lost;6;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;184;;;Albert Palmer (father), Annie Palmer (mother), Olive Palmer (sister), Albert Palmer (brother);1;Minor;Male
 PALMER;Mrs.;Albert (Annie Oakes);Lost;33;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;179;;;Albert Palmer (husband), Edgar Palmer (son), Olive Palmer (daughter), Albert Palmer (son);1;Adult;Female
 PALMER;Miss;Kathleen;Lost;41;Second;Passenger;British;;Single;North Augusta;;South Carolina;USA;;;;;;Frank Palmer (brother?);1;Adult;Female
@@ -1103,7 +1103,7 @@ PAYNE;Mr.;Martin Sylvester;Saved;19;Second;Passenger;British;;;Springfield;;Mass
 PEACOCK;Master;Thomas Edward, Jr.;Saved;17;Second;Passenger;British;;Single;Jerome;;Arizona;USA;;;;;;Elizabeth Peacock (mother);1;Minor;Male
 PEACOCK;Mrs.;Elizabeth L. (Elizabeth L. Todd);Saved;48;Second;Passenger;British;;Married;Jerome;;Arizona;USA;;;;;;Thomas Peacock (son);1;Adult;Female
 PELLS;Mr.;Cyril Elmore;Saved;24;Second;Passenger;British;;Married;Vancouver;;British Columbia;Canada;;;;;;Mary Pells (wife), John Pells (son);1;Adult;Male
-PELLS;Master;John;Lost;3;Second;Passenger;British;;Single;Vancouver;;British Columbia;Canada;;;;;;Cyril Pells (father), Mary Pells (mother);1;Infant;Male
+PELLS;Master;John;Lost;Infant;Second;Passenger;British;;Single;Vancouver;;British Columbia;Canada;;;;;;Cyril Pells (father), Mary Pells (mother);1;Infant;Male
 PELLS;Mrs.;Cyril Elmore (Mary Anita Reeve);Saved;32;Second;Passenger;British;;Married;Vancouver;;British Columbia;Canada;;;;;;Cyril Pells (husband), John Pells (son);1;Adult;Female
 PHAIR;Reverend;Ernest Edward Maxwell;Lost;44;Second;Passenger;British;;;Winnipeg;;Manitoba;Canada;;;79;;C 3;;1;Adult;Male
 PIRIE;Master;Arthur;Lost;4;Second;Passenger;British;;Single;Lynn;;;USA;;;;;;Annie Pirie (mother), Margaret Pirie (sister);1;Minor;Male
@@ -1121,14 +1121,14 @@ PROUDFOOT;Mr.;Samuel Lamond;Lost;;Second;Passenger;British;;;Belle Vernon;;Penns
 PURSE;Mr.;Reginald;Lost;;Second;Passenger;British;;Married;Chattanooga;;Tennessee;USA;;;;;;Gertrude Purse (wife);1;Adult;Male
 PURSE;Mrs.;Reginald (Gertrude Alice);Lost;;Second;Passenger;British;;Married;Chattanooga;;Tennessee;USA;;;;;;Reginald Purse (husband);1;Adult;Female
 PYE;Mrs.;William Samuel (Charlotte Lillian);Saved;28;Second;Passenger;British;;Married;Edmonton;;Alberta;Canada;collapsible;Flying Fish;;;;Marjorie Pye (daughter);1;Adult;Female
-PYE;Miss;Marjorie;Lost;2;Second;Passenger;British;;Single;Edmonton;;Alberta;Canada;;;239;;;Charlotte Pye (mother);1;Infant;Female
+PYE;Miss;Marjorie;Lost;18-months;Second;Passenger;British;;Single;Edmonton;;Alberta;Canada;;;239;;;Charlotte Pye (mother);1;Infant;Female
 READDIE;Mr.;James Robert;Saved;29;Second;Passenger;British;;;Brooklyn;;New York;USA;;;;;;;1;Adult;Male
 REID;Mr.;Peter;Lost;;Second;Passenger;British;;;Little Rock;;Arkansas;USA;;;;;;;1;Adult;Male
 RICHARDS;Mr.;Thomas Henry;Saved;40;Second;Passenger;USA;;Married;Meaderville;;Montana;USA;;;;;D 80;Phyllis Richards (wife), Thomas Richards (son), Cecil Richards (son), Dora Richards (daughter), Caroline Treverrow (sister);1;Adult;Male
 RICHARDS;Master;Cecil Harry;Saved;4;Second;Passenger;USA;;Single;Meaderville;;Montana;USA;;;;;D 80;Thomas Richards (father), Phyllis Richards (mother), Thomas Richards (brother), Dora Richards (sister), Caroline Treverrow (aunt);1;Minor;Male
 RICHARDS;Master;Thomas Percy;Saved;7;Second;Passenger;British;;Single;Meaderville;;Montana;USA;;;;;D 80;Thomas Richards (father), Phyllis Richards (mother), Cecil Richards (brother), Dora Richards (sister), Caroline Treverrow (aunt);1;Minor;Male
 RICHARDS;Mrs.;"Thomas Henry (Phillippa ""Phyllis"" Conner)";Saved;38;Second;Passenger;British;;Married;Meaderville;;Montana;USA;;;;;D 80;Thomas Richards (husband), Thomas Richards (son), Cecil Richards (son), Dora Richards (daughter), Caroline Treverrow (sister-in-law);1;Adult;Female
-RICHARDS;Miss;Dora Millicent;Lost;2;Second;Passenger;USA;;Single;Meaderville;;Montana;USA;;;;;D 80;Thomas Richards (father), Phyllis Richards (mother), Thomas Richards (brother), Cecil Richards (brother), Caroline Treverrow (aunt);1;Infant;Female
+RICHARDS;Miss;Dora Millicent;Lost;18-months;Second;Passenger;USA;;Single;Meaderville;;Montana;USA;;;;;D 80;Thomas Richards (father), Phyllis Richards (mother), Thomas Richards (brother), Cecil Richards (brother), Caroline Treverrow (aunt);1;Infant;Female
 RICHARDSON;Mrs.;James (Annie);Saved;39;Second;Passenger;British;;Married;Philadelphia;;Pennsylvania;USA;13;Stormcock;;;E 114;;1;Adult;Female
 RITCHIE;Mr.;William Joss;Lost;;Second;Passenger;British;;;Winnipeg;;Manitoba;Canada;;;;;;;1;Adult;Male
 ROBERTSON;Mr.;Andrew;Lost;;Second;Passenger;British;;;New Orleans;;Louisiana;USA;;;;;;;1;Adult;Male
@@ -1150,7 +1150,7 @@ SCOTT;Mr.;George;Saved;27;Second;Passenger;British;;;Toronto;;Ontario;Canada;;;;
 SCRIMGEOUR;Mr.;William;Saved;;Second;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 SECCHI;Mrs.;Herbert (Edith Helen West);Saved;35;Second;Passenger;British;;Married;New York;;New York;USA;13;Stormcock;;;;;1;Adult;Female
 SEMOURS;Mr.;Charles T.;Lost;;Second;Passenger;British;;;Buffalo;;New York;USA;;;;;;;1;Adult;Male
-SEMPLE;Master;John;Lost;3;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Agnes Semple (mother);1;Infant;Male
+SEMPLE;Master;John;Lost;Infant;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Agnes Semple (mother);1;Infant;Male
 SEMPLE;Mrs.;Andrew (Agnes Gilmour);Lost;29;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;John Semple (son);1;Adult;Female
 SHAW;Miss;Emily;Lost;32;Second;Passenger;British;;Single;Winnipeg;;Manitoba;Canada;;;;;;;1;Adult;Female
 SHINEMAN;Mr.;James W.;Lost;29;Second;Passenger;USA;;Married;Oil City;;Wyoming;USA;;;18 (DA);;;Margaret Shineman (wife);1;Adult;Male
@@ -1165,22 +1165,22 @@ SMITH;Mr.;Albert R.;Lost;35;Second;Passenger;British;;Married;New York;;New York
 SMITH;Mr.;Alfred F.;Lost;;Second;Passenger;British;;Married;Ellwood City;;Pennsylvania;USA;;;;;;Elizabeth Smith (wife), Helen Smith (daughter), Bessie Smith (daughter), Cecelia Owens (sister), Ronald Owens (nephew), Reginald Owens (nephew);1;Adult;Male
 SMITH;Mr.;David J.;Lost;;Second;Passenger;British;;;;;;England;;;;;;;1;Adult;Male
 SMITH;Mr.;Harry;Lost;;Second;Passenger;British;;;Toronto;;Ontario;Canada;;;;;;;1;Adult;Male
-SMITH;Master;Hubert;Lost;1;Second;Passenger;British;;Single;Ellwood City;;Pennsylvania;USA;;;;;;Alfred Smith (father), Elizabeth Smith (mother), Helen Smith (sister), Cecelia Owens (aunt), Ronald Owens (cousin), Reginald Owens (cousin);1;Infant;Male
+SMITH;Master;Hubert;Lost;06-months;Second;Passenger;British;;Single;Ellwood City;;Pennsylvania;USA;;;;;;Alfred Smith (father), Elizabeth Smith (mother), Helen Smith (sister), Cecelia Owens (aunt), Ronald Owens (cousin), Reginald Owens (cousin);1;Infant;Male
 SMITH;Mrs.;Albert R. (Gladys E.);Lost;31;Second;Passenger;British;;Married;New York;;New York;USA;;;;;;Albert Smith (husband), Dorothy Smith (daughter);1;Adult;Female
 SMITH;Mrs.;Alfred F. (Elizabeth A. Jones);Lost;;Second;Passenger;British;;Married;Ellwood City;;Pennsylvania;USA;;;;;;Alfred Smith (husband), Helen Smith (daughter), Bessie Smith (daughter), Cecelia Owens (sister-in-law), Ronald Owens (nephew), Reginald Owens (nephew);1;Adult;Female
 SMITH;Miss;Sarah;Lost;;Second;Passenger;British;;;St. Thomas;;Ontario;Canada;;;;;;Avis Dolphin (employer's daughter), Hilda Ellis (coworker);1;Adult;Female
-SMITH;Miss;Dorothy;Lost;3;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;Albert Smith (father), Gladys Smith (mother);1;Infant;Female
+SMITH;Miss;Dorothy;Lost;Infant;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;Albert Smith (father), Gladys Smith (mother);1;Infant;Female
 SORENSON;Mr.;Soren;Saved;33;Second;Passenger;British;;;Edmonton;;Alberta;Canada;;;;;;;1;Adult;Male
 SPILLMAN;Mr.;John Bowen;Lost;33;Second;Passenger;British;;Married;Wyandotte;;Michigan;USA;;;26;;;Eliza Spillman (wife);1;Adult;Male
 SPILLMAN;Mrs.;John Bowen (Eliza);Lost;;Second;Passenger;British;;Married;Wyandotte;;Michigan;USA;;;;;;John Spillman (husband);1;Adult;Female
 STANLEY;Mr.;Henry William;Lost;;Second;Passenger;British;;;Trenton;;New Jersey;USA;;;;;;;1;Adult;Male
 STEVENS;Mr.;Charles Henry;Lost;57;Second;Passenger;USA;;Married;Atlantic City;;New Jersey;USA;;;241;;;;1;Adult;Male
 STEVENSON;Mrs.;William (Janet M. Wallace);Lost;;Second;Passenger;British;;Married;Cleveland;;Ohio;USA;;;;;;Elizabeth Stevenson (daughter);1;Adult;Female
-STEVENSON;Miss;Elizabeth P.;Lost;3;Second;Passenger;British;;Single;Cleveland;;Ohio;USA;;;;;;Janet Stevenson (mother);1;Infant;Female
-STEWART;Master;John Knox;Saved;1;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Christina Stewart (mother);1;Infant;Male
+STEVENSON;Miss;Elizabeth P.;Lost;Infant;Second;Passenger;British;;Single;Cleveland;;Ohio;USA;;;;;;Janet Stevenson (mother);1;Infant;Female
+STEWART;Master;John Knox;Saved;05-months;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Christina Stewart (mother);1;Infant;Male
 STEWART;Mrs.;James (Christina Knox?);Saved;30;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;John Stewart (son);1;Adult;Female
 STOKES;Mr.;"George Edward ""Ted""";Lost;;Second;Passenger;British;;Married;Victoria;;British Columbia;Canada;;;;;;Mabel Stokes (wife), William Stokes (son);1;Adult;Male
-STOKES;Master;William;Lost;3;Second;Passenger;British;;Single;Victoria;;British Columbia;Canada;;;;;;Ted Stokes (father), Mabel Stokes (mother);1;Minor;Male
+STOKES;Master;William;Lost;2½;Second;Passenger;British;;Single;Victoria;;British Columbia;Canada;;;;;;Ted Stokes (father), Mabel Stokes (mother);1;Minor;Male
 STOKES;Mrs.;George Edward (Mabel Elliott);Lost;;Second;Passenger;British;;Married;Victoria;;British Columbia;Canada;;;;;;Ted Stokes (husband), William Stokes (son);1;Adult;Female
 STONES;Mr.;Norman;Saved;28;Second;Passenger;British;;Married;Texada Island;;British Columbia;Canada;;;;;;Hilda Stones (wife);1;Adult;Male
 STONES;Mrs.;Norman (Hilda Mary Joy);Lost;29;Second;Passenger;British;;Married;Texada Island;;British Columbia;Canada;;;;;;Norman Stones (husband);1;Adult;Female
@@ -1215,12 +1215,12 @@ TODD;Mr.;David;Lost;28;Second;Passenger;British;;;Philadelphia;;Pennsylvania;USA
 TREVERROW;Mrs.;Caroline (Caroline Richards);Lost;62;Second;Passenger;British;;;Butte;;Montana;USA;;;;;;Thomas Richards (brother), Phyllis Richards (sister-in-law), Thomas Richards (nephew), Cecil Richards (nephew), Dora Richards (niece);1;Adult;Female
 TULLOCH;Mr.;James;Lost;;Second;Passenger;British;;Married;Kendall;;;USA;;;;;;Agnes Tulloch (wife), Hannah Tulloch (daughter);1;Adult;Male
 TULLOCH;Mrs.;James (Agnes Kerr);Lost;21;Second;Passenger;British;;Married;Kendall;;;USA;;;;;;James Tulloch (husband), Hannah Tulloch (daughter);1;Adult;Female
-TULLOCH;Miss;Hannah;Lost;1;Second;Passenger;British;;Single;Kendall;;;USA;;;;;;James Tulloch (father), Agnes Tulloch (mother);1;Infant;Female
+TULLOCH;Miss;Hannah;Lost;11-months;Second;Passenger;British;;Single;Kendall;;;USA;;;;;;James Tulloch (father), Agnes Tulloch (mother);1;Infant;Female
 TURPIN;Mr.;Thomas Keith;Saved;30;Second;Passenger;British;;Married;Victoria;;British Columbia;Canada;;;;;;Maud Turpin (wife);1;Adult;Male
 TURPIN;Mrs.;Thomas Keith (Maud Adelaide Otway Hatchell);Saved;;Second;Passenger;British;;Married;Victoria;;British Columbia;Canada;;;;;;Thomas Turpin (husband);1;Adult;Female
 TWIGG;Mr.;Frederick Alexander;Lost;;Second;Passenger;British;;;Winnipeg;;Manitoba;Canada;;;10;;;;1;Adult;Male
 TYERS;Mr.;Frederick Charles;Lost;;Second;Passenger;British;;;Nottingham;;;England;;;17;;;;1;Adult;Male
-VANCE;Mr.;John;Lost;30;Second;Passenger;USA;;Single;New York;;New York;USA;;;;;;;1;Adult;Male
+VANCE;Mr.;John;Lost;30 ?;Second;Passenger;USA;;Single;New York;;New York;USA;;;;;;;1;Adult;Male
 VARCOE;Mr.;John Francis (Lavinia Woodgate);Lost;70;Second;Passenger;British;;Married;Kansas City;;Missouri;USA;;;;;;;1;Adult;Male
 VARLEY;Miss;Alice Mercy;Lost;50;Second;Passenger;British;;Single;East Northfield;;;USA;;;;;;;1;Adult;Female
 VENN;Mr.;Harold Stanley;Lost;;Second;Passenger;British;;;San Francisco;;California;USA;;;;;;;1;Adult;Male
@@ -1238,10 +1238,10 @@ WARING;Mr.;Charles;Lost;;Second;Passenger;British;;;Winnipeg;;Manitoba;Canada;;;
 WARNER;Mr.;Tertius Selwyn;Lost;21;Second;Passenger;British;;;London;;Ontario;Canada;;;;;;;1;Adult;Male
 WATERS;Miss;Katherine W.;Lost;25;Second;Passenger;British (Irish);;Single;Elcentra;;California;USA;;;;;;Margaret Waters (sister), nurse;1;Adult;Female
 WATERS;Miss;Margaret;Lost;29;Second;Passenger;British (Irish);;Single;Elcentra;;California;USA;;;;;;Katherine Waters (sister), nurse;1;Adult;Female
-WEBB;Miss;Minnie;Saved;34;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;;1;Adult;Female
+WEBB;Miss;Minnie;Saved;34?;Second;Passenger;British;;Single;New York;;New York;USA;;;;;;;1;Adult;Female
 WEBSTER;Mr.;Frederick G.;Saved;28;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Margaret Webster (wife), William Webster (son), Frederick Webster (son), Henry Webster (son);1;Adult;Male
-WEBSTER;Master;Frederick;Lost;1;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Frederick Webster (father), Margaret Webster (mother), William Webster (brother), Henry Webster (brother);1;Infant;Male
-WEBSTER;Master;Henry;Lost;1;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Frederick Webster (father), Margaret Webster (mother), William Webster (brother), Frederick Webster (brother);1;Infant;Male
+WEBSTER;Master;Frederick;Lost;11-months;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Frederick Webster (father), Margaret Webster (mother), William Webster (brother), Henry Webster (brother);1;Infant;Male
+WEBSTER;Master;Henry;Lost;11-months;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Frederick Webster (father), Margaret Webster (mother), William Webster (brother), Frederick Webster (brother);1;Infant;Male
 WEBSTER;Master;William;Saved;3;Second;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Frederick Webster (father), Margaret Webster (mother), Frederick Webster (brother), Henry Webster (brother);1;Minor;Male
 WEBSTER;Mrs.;Frederick G. (Margaret);Lost;24;Second;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Frederick Webster (husband), William Webster (son), Frederick Webster (son), Henry Webster (son);1;Adult;Female
 WEIR;Mr.;Cecil Hamilton;Lost;31;Second;Passenger;British;;;Victoria;;British Columbia;Canada;;;;;;;1;Adult;Male
@@ -1250,7 +1250,7 @@ WHITCOMBE;Mr.;Hugh Martin Donald Gore;Saved;25;Second;Passenger;British;;;Havana
 WHITEHEAD;Miss;Florence;Saved;41;Second;Passenger;British;;Single;Boston;;Massachusetts;USA;13;Stormcock;;;E 135;Elizabeth Hampshire (foster sister);1;Adult;Female
 WHYATT;Mrs.;Aaron Taylor (Martha Ann Bussey);Saved;60;Second;Passenger;British;;Widowed;New Bedford;;Massachusetts;USA;collapsible;;;;Roommates with Phoebe Amory and Mary Higginbottom;;1;Adult;Female
 WICKHAM;Mrs.;Nina;Lost;50;Second;Passenger;British;;Married;;;;New Zealand;;;54;;;;1;Adult;Female
-WICKINGS-SMITH;Miss;Nancy Eileen Fenn;Saved;3;Second;Passenger;British;;Single;Victoria;;British Columbia;Canada;11;Wanderer (Peel 12);;;;Cyril Wickings-Smith (father), Phyllis Wickings-Smith (mother), Basil Wickings-Smith (uncle);1;Infant;Female
+WICKINGS-SMITH;Miss;Nancy Eileen Fenn;Saved;Infant;Second;Passenger;British;;Single;Victoria;;British Columbia;Canada;11;Wanderer (Peel 12);;;;Cyril Wickings-Smith (father), Phyllis Wickings-Smith (mother), Basil Wickings-Smith (uncle);1;Infant;Female
 WICKINGS-SMITH;Mr.;Cyril;Saved;27;Second;Passenger;British;;Married;Victoria;;British Columbia;Canada;;;;;;Basil Wickings-Smith (brother), Phyllis Wickings-Smith (wife), Nancy Wickings-Smith (daughter);1;Adult;Male
 WICKINGS-SMITH;Mr.;Basil Guilford (Cyril's brother);Lost;29;Second;Passenger;British;;Married;Victoria;;British Columbia;Canada;;;;;;Cyril Wickings-Smith (brother), Phyllis Wickings-Smith (sister-in-law), Nancy Wickings-Smith (niece);1;Adult;Male
 WICKINGS-SMITH;Mrs.;Cyril (Phyllis Bailey Fenn);Saved;24;Second;Passenger;British;;Married;Victoria;;British Columbia;Canada;;;;;;Cyril Wickings-Smith (husband), Nancy Wickings-Smith (daughter), Basil Wickings-Smith (brother-in-law);1;Adult;Female
@@ -1307,7 +1307,7 @@ BARCLAY;Mr.;George;Saved;30;Third;Passenger;British;;;;;;Canada;;;;;;;1;Adult;Ma
 BARROW;Mr.;Donald George M.;Saved;25;Third;Passenger;British;;Married;Maple Creek;;;Canada;;;;;;May Barrow (wife);1;Adult;Male
 BARROW;Mrs.;Donald George M. (May);Lost;20;Third;Passenger;British;;Married;Maple Creek;;;Canada;;;34;;;Donald Barrow (husband);1;Adult;Female
 BARTLEY;Mr.;George Noble;Lost;38;Third;Passenger;British;;Married;Welland;;Ontario;Canada;;;;;;Ellen Bartley (wife), Arthur Bartley (son), Gordon Bartley (son);1;Adult;Male
-BARTLEY;Master;Gordon;Lost;1;Third;Passenger;British;;Single;Welland;;Ontario;Canada;;;;;;George Bartley (father), Ellen Bartley (mother), Arthur Bartley (brother);1;Infant;Male
+BARTLEY;Master;Gordon;Lost;03-months;Third;Passenger;British;;Single;Welland;;Ontario;Canada;;;;;;George Bartley (father), Ellen Bartley (mother), Arthur Bartley (brother);1;Infant;Male
 BARTLEY;Master;Arthur;Lost;4;Third;Passenger;British;;Single;Welland;;Ontario;Canada;;;;;;George Bartley (father), Ellen Bartley (mother), Gordon Bartley (brother);1;Minor;Male
 BARTLEY;Mrs.;George Noble (Ellen);Lost;28;Third;Passenger;British;;Married;Welland;;Ontario;Canada;;;;;;George Bartley (husband), Arthur Bartley (son), Gordon Bartley (son);1;Adult;Female
 BEAUCHAMP;Mr.;William;Saved;36;Third;Passenger;British;;;Otsego;;;USA;;;;;;;1;Adult;Male
@@ -1345,15 +1345,15 @@ CATTEW;Miss;Emily;Lost;37;Third;Passenger;British;;Single;New York;;New York;USA
 CHARKOWSKI;Mr.;Porflri;Lost;41;Third;Passenger;Russian;;;East St. Louis;;Illinois;USA;;;;;;;1;Adult;Male
 CHWYSINK;Mr.;Pawel;Lost;21;Third;Passenger;Russian;;;Chicago;;Illinois;USA;;;;;;;1;Adult;Male
 CLIFT;Mr.;Horance;Lost;23;Third;Passenger;British;;;Chicago;;Illinois;USA;;;;;;;1;Adult;Male
-CONNOLLY;Mr.;Michael;Lost;39;Third;Passenger;British;;Single;New York;;New York;USA;;;;;;;1;Adult;Male
+CONNOLLY;Mr.;Michael;Lost;39 (47?);Third;Passenger;British;;Single;New York;;New York;USA;;;;;;;1;Adult;Male
 COOK;Mr.;William George;Saved;38;Third;Passenger;British;;;Toronto;;Ontario;Canada;;;;;;;1;Adult;Male
-COOPER;Master;Joseph E.;Lost;1;Third;Passenger;USA;;Single;New Bedford;;Massachusetts;USA;;;;;;Nellie Cooper (mother);1;Infant;Male
+COOPER;Master;Joseph E.;Lost;03-months;Third;Passenger;USA;;Single;New Bedford;;Massachusetts;USA;;;;;;Nellie Cooper (mother);1;Infant;Male
 COOPER;Mrs.;Nellie Elizabeth;Lost;33;Third;Passenger;British;;Married;New Bedford;;Massachusetts;USA;;;;;;Joseph Cooper (son);1;Adult;Female
 COUGHLAN;Mr.;John J.;Lost;40;Third;Passenger;British (Irish)/USA;;Married;Butte;;Montana;USA;;;;;;Katherine Coughlan (wife), John Coughlan (son), Margaret Coughlan (daughter), Jeremiah Coughlan (son);1;Adult;Male
-COUGHLAN;Master;Jeremiah Bernard;Saved;1;Third;Passenger;USA;;Single;Butte;;Montana;USA;;;;;;John Coughlan (father), Katherine Coughlan (mother), John Coughlan (brother), Margaret Coughlan (sister);1;Infant;Male
+COUGHLAN;Master;Jeremiah Bernard;Saved;11-months;Third;Passenger;USA;;Single;Butte;;Montana;USA;;;;;;John Coughlan (father), Katherine Coughlan (mother), John Coughlan (brother), Margaret Coughlan (sister);1;Infant;Male
 COUGHLAN;Master;John, Jr.;Saved;3;Third;Passenger;USA;;Single;Butte;;Montana;USA;;;;;;John Coughlan (father), Katherine Coughlan (mother), Margaret Coughlan (sister), Jeremiah Coughlan (brother);1;Minor;Male
 COUGHLAN;Mrs.;John (Katherine O'Neil);Saved;40;Third;Passenger;British (Irish)/USA;;Married;Butte;;Montana;USA;;;;;;John Coughlan (husband), John Coughlan (son), Margaret Coughlan (daughter), Jeremiah Coughlan (son);1;Adult;Female
-COUGHLAN;Miss;Margaret;Lost;2;Third;Passenger;USA;;Single;Butte;;Montana;USA;;;62;;;John Coughlan (father), Katherine Coughlan (mother), John Coughlan (brother), Jeremiah Coughlan (brother);1;Minor;Female
+COUGHLAN;Miss;Margaret;Lost;2,5;Third;Passenger;USA;;Single;Butte;;Montana;USA;;;62;;;John Coughlan (father), Katherine Coughlan (mother), John Coughlan (brother), Jeremiah Coughlan (brother);1;Minor;Female
 COXON;Mr.;Geoffrey Thomley;Lost;18;Third;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 CROSBIE;Miss;Agnes;Saved;24;Third;Passenger;British;;Single;Wilmette;;Illinois;USA;;;;;;Nicholas Boyle, Agnes Smith, Sarah McClellan;1;Adult;Female
 CROSS;Mr.;Charles Ivor;Lost;21;Third;Passenger;British;;;Camden;;New Jersey;USA;;;;;;;1;Adult;Male
@@ -1386,7 +1386,7 @@ FAULDS;Mr.;Andrew;Saved;28;Third;Passenger;British;;Married;Yonkers;;New York;US
 FAULDS;Mrs.;Andrew (Margaret Allen);Saved;27;Third;Passenger;British;;Married;Yonkers;;New York;USA;14;;;;;Andrew Faulds (husband);1;Adult;Female
 FEELEY;Mr.;Joseph;Lost;29;Third;Passenger;British;;;New York;;New York;USA;;;;;;Teresa Feeley (wife);1;Adult;Male
 FEELEY;Mrs.;Teresa (Teresa Clery);Lost;34;Third;Passenger;British;;Married;New York;;New York;USA;;;4 (Q);;;Joseph Feeley (husband);1;Adult;Female
-FERGUSON;Master;Edward;Lost;2;Third;Passenger;USA;;Single;Newark;;New Jersey;USA;;;154;;;Mary Ferguson (mother);1;Infant;Male
+FERGUSON;Master;Edward;Lost;15-months;Third;Passenger;USA;;Single;Newark;;New Jersey;USA;;;154;;;Mary Ferguson (mother);1;Infant;Male
 FERGUSON;Mrs.;Samuel James (Mary Agnes);Lost;23;Third;Passenger;USA;;Married;Newark;;;USA;;;;;;Edward Ferguson (son);1;Adult;Female
 FERRICK;Mr.;John;Lost;26;Third;Passenger;British (Irish);;Married;New York;;New York;USA;;;;;;Margaret Ferrick (sister);1;Adult;Male
 FERRICK;Miss;Margaret;Lost;22;Third;Passenger;British (Irish);;Married;New York;;New York;USA;;;;;;John Ferrick (brother);1;Adult;Female
@@ -1396,14 +1396,14 @@ FRANKUM;Mr.;Joseph;Saved;36;Third;Passenger;British;;Married;Detroit;;Michigan;U
 FRANKUM;Master;Frederick George;Lost;4;Third;Passenger;British;;Single;Detroit;;Michigan;USA;;;;;;Joseph Frankum (father), Annie Frankum (mother), Francis Frankum (brother), Winifred Frankum (sister);1;Minor;Male
 FRANKUM;Master;Francis;Saved;7;Third;Passenger;British;;Single;Detroit;;Michigan;USA;;;;;;Joseph Frankum (father), Annie Frankum (mother), Frederick Frankum (brother), Winifred Frankum (sister);1;Minor;Male
 FRANKUM;Mrs.;Joseph (Annie Mariah B.);Lost;36;Third;Passenger;British;;Married;Detroit;;Michigan;USA;;;;;;Joseph Frankum (husband), Francis Frankum (son), Frederick Frankum (son), Winifred Frankum (daughter);1;Adult;Female
-FRANKUM;Miss;Winifred Annie;Lost;1;Third;Passenger;British/USA;;Single;Detroit;;Michigan;USA;;;;;;Joseph Frankum (father), Annie Frankum (mother), Frederick Frankum (brother), Francis Frankum (brother);1;Infant;Female
+FRANKUM;Miss;Winifred Annie;Lost;10-months;Third;Passenger;British/USA;;Single;Detroit;;Michigan;USA;;;;;;Joseph Frankum (father), Annie Frankum (mother), Frederick Frankum (brother), Francis Frankum (brother);1;Infant;Female
 GALVIN;Mr.;Michael;Lost;30;Third;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 GATELY;Mr.;John;Saved;27;Third;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 GIBBONS;Mr.;Michael;Lost;36;Third;Passenger;USA;;Single;Chicago;;Illinois;USA;;;;;;;1;Adult;Male
 GILILEN;Mr.;Ellie;Saved;36;Third;Passenger;Persian;;;Yonkers;;New York;USA;;;;;;;1;Adult;Male
 GLEASON;Miss;Katherine;Lost;23;Third;Passenger;British;;Single;Chicago;;Illinois;USA;;;;;;;1;Adult;Female
 GOODALL;Mr.;William;Lost;30;Third;Passenger;British;;Married;Kearney;;New Jersey;USA;;;;;;Beatrice Goodall (wife), Leonard Goodall (son), Jack Goodall (son);1;Adult;Male
-GOODALL;Master;Jack;Lost;1;Third;Passenger;USA;;Single;Kearney;;New Jersey;USA;;;;;;William Goodall (father), Beatrice Goodall (mother), JLeonard Goodall (brother);1;Infant;Male
+GOODALL;Master;Jack;Lost;10-months;Third;Passenger;USA;;Single;Kearney;;New Jersey;USA;;;;;;William Goodall (father), Beatrice Goodall (mother), JLeonard Goodall (brother);1;Infant;Male
 GOODALL;Master;Leonard;Lost;7;Third;Passenger;British;;Single;Kearney;;New Jersey;USA;;;;;;William Goodall (father), Beatrice Goodall (mother), Jack Goodall (brother);1;Minor;Male
 GOODALL;Mrs.;William (Beatrice);Lost;33;Third;Passenger;British;;Married;Kearney;;New Jersey;USA;;;;;;William Goodall (husband), Leonard Goodall (son), Jack Goodall (son);1;Adult;Female
 GOODE;Mr.;George;Lost;23;Third;Passenger;British;;;;;;Canada;;;;;;;1;Adult;Male
@@ -1479,7 +1479,7 @@ LOCKHART;Mr.;James;Lost;30;Third;Passenger;British;;;New York;;New York;USA;;;;;
 LOCKWOOD;Master;Clifford;Lost;11;Third;Passenger;British;;Single;Harrison;;;USA;;;;;;Florence Lockwood (mother), Lily Lockwood (sister), Edith Robshaw (cousin);1;Minor;Male
 LOCKWOOD;Mrs.;Dick (Florence Robshaw);Lost;35;Third;Passenger;British;;Married;Harrison;;;USA;;;;;;Clifford Lockwood (son), Lily Lockwood (daughter), Edith Robshaw (niece);1;Adult;Female
 LOCKWOOD;Miss;Lily (Lillian);Lost;7;Third;Passenger;USA;;Single;Harrison;;;USA;;;69;;;Florence Lockwood (mother), Clifford Lockwood (brother), Edith Robshaw (cousin);1;Minor;Female
-LOGAN;Master;Robert;Lost;1;Third;Passenger;USA;;Single;New York;;New York;USA;;;42;;;Ruth Logan (mother);1;Infant;Male
+LOGAN;Master;Robert;Lost;11-months (3?);Third;Passenger;USA;;Single;New York;;New York;USA;;;42;;;Ruth Logan (mother);1;Infant;Male
 LOGAN;Mrs.;James (Ruth Cooper);Saved;27;Third;Passenger;British;;Married;New York;;New York;USA;;torpedo boat;;;;Robert Logan (son);1;Adult;Female
 LOGNUNIETZ;Mr.;Wasili;Lost;23;Third;Passenger;Russian;;;Chicago;;Illinois;USA;;;;;;;1;Adult;Male
 LONG;Mr.;Harry;Lost;21;Third;Passenger;British;;;Detroit;;Michigan;USA;;;;;;;1;Adult;Male
@@ -1494,7 +1494,7 @@ MARCHEWKA;Mr.;Josef;Lost;50;Third;Passenger;Russian;;;Three Rivers;;;USA;;;;;;;1
 MARKS;Miss;Georgina;Lost;24;Third;Passenger;British;;Single;Bristol;;;England;;;;;;Elizabeth Marks (mother);1;Adult;Female
 MARKS;Mrs.;G. (Elizabeth Brock);Lost;50;Third;Passenger;British;;Married;Bristol;;;England;;;;;;Georgina Marks (daughter);1;Adult;Female
 MARSH;Mr.;Thomas;Lost;29;Third;Passenger;British;;Married;Toronto;;Ontario;Canada;;;80;;;Annie Marsh (wife), Thomas Marsh (son), George Hook (employer), Elsie Hook (employer's daughter), Frank Hook (employer's son);1;Adult;Male
-MARSH;Master;Thomas, Jr.;Lost;1;Third;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Thomas Marsh (father), Annie Marsh (mother), George Hook (mother's employer), Elsie Hook (George's daughter), Frank Hook (George's son);1;Infant;Male
+MARSH;Master;Thomas, Jr.;Lost;11-months;Third;Passenger;British;;Single;Toronto;;Ontario;Canada;;;;;;Thomas Marsh (father), Annie Marsh (mother), George Hook (mother's employer), Elsie Hook (George's daughter), Frank Hook (George's son);1;Infant;Male
 MARSH;Mrs.;Thomas (Annie);Saved;26;Third;Passenger;British;;Married;Toronto;;Ontario;Canada;;;;;;Thomas Marsh (husband), Thomas Marsh (son), George Hook (employer), Elsie Hook (employer's daughter), Frank Hook (employer's son);1;Adult;Female
 MARSHALL;Mrs.;Fannie E.;Saved;35;Third;Passenger;British;;Married;;;;Canada;;;;;;;1;Adult;Female
 MARTIN;Mrs.;Albert (Laura Truman);Saved;56;Third;Passenger;British;;Married;New Philadelphia;;Ohio;USA;;;;;;;1;Adult;Female
@@ -1517,7 +1517,7 @@ MOLLOY;Mr.;Robert J.;Lost;;Third;Passenger;British;;;Deported;;;;;;;;;;1;Adult;M
 MOSES;Mrs.;George (Janet Lynn);Saved;46;Third;Passenger;British;;Married;Wilkinsburg;;;USA;;;;;;;1;Adult;Female
 MUIRHEAD;Mr.;William;Saved;31;Third;Passenger;British;;;New York;;New York;USA;;;;;;;1;Adult;Male
 MURASKO;Mr.;Boris;Lost;24;Third;Passenger;Russian;;;Oxford Furnace;;;USA;;;;;;;1;Adult;Male
-MURRAY;Master;Walter;Lost;5;Third;Passenger;British;;Single;Chicago;;Illinois;USA;;;;;;Margaret Murray (mother), Elizabeth Young (housemate);1;Minor;Male
+MURRAY;Master;Walter;Lost;4,25;Third;Passenger;British;;Single;Chicago;;Illinois;USA;;;;;;Margaret Murray (mother), Elizabeth Young (housemate);1;Minor;Male
 MURRAY;Mrs.;James (Margaret Gray);Lost;26;Third;Passenger;British;;Married;Chicago;;Illinois;USA;;;;;;Walter Murray (son), Elizabeth Young (housemate);1;Adult;Female
 MURRAY;Mrs.;Mary;Lost;;Third;Passenger;British;;Married;;;;Cuba;;;;;;;1;Adult;Female
 NEILBORSKI;Mr.;Gregory;Lost;22;Third;Passenger;Russian;;;Oxford Furnace;;;USA;;;;;;;1;Adult;Male
@@ -1634,7 +1634,7 @@ WILKES;Miss;Alice Kate;Saved;30;Third;Passenger;British;;Single;Chicago;;Illinoi
 WILLIAMS;Mr.;David;Lost;27;Third;Passenger;British;;;Edmonton;;Alberta;Canada;;;;;;;1;Adult;Male
 WILLIAMS;Mr.;James;Lost;38;Third;Passenger;British;;;New York;;New York;USA;;;108;;;;1;Adult;Male
 WILLIAMS;Mr.;Thomas;Lost;45;Third;Passenger;British;;;Johnstown;;Pennsylvania;USA;;;;;;;1;Adult;Male
-WILLIAMS;Master;David;Lost;1;Third;Passenger;British/USA;;Single;Plainfield;;New Jersey;USA;;;;;;Annie Williams (mother), John Williams (brother), Edith Williams (sister), George Williams (brother), Ethel Williams (sister), Florence Williams (sister);1;Infant;Male
+WILLIAMS;Master;David;Lost;03-months;Third;Passenger;British/USA;;Single;Plainfield;;New Jersey;USA;;;;;;Annie Williams (mother), John Williams (brother), Edith Williams (sister), George Williams (brother), Ethel Williams (sister), Florence Williams (sister);1;Infant;Male
 WILLIAMS;Master;George Albert;Lost;6;Third;Passenger;British/USA;;Single;Plainfield;;New Jersey;USA;;;;;;Annie Williams (mother), John Williams (brother), Edith Williams (sister), Ethel Williams (sister), Florence Williams (sister), David Williams (brother);1;Minor;Male
 WILLIAMS;Master;John Edward;Saved;10;Third;Passenger;British/USA;;Single;Plainfield;;New Jersey;USA;;;;;;Annie Williams (mother), Edith Williams (sister), George Williams (brother), Ethel Williams (sister), Florence Williams (sister), David Williams (brother);1;Minor;Male
 WILLIAMS;Mrs.;Harry John (Elizabeth Annie Millman);Lost;37;Third;Passenger;British;;Married;Plainfield;;New Jersey;USA;;;;;;John Williams (son), Edith Williams (daughter), George Williams (son), Ethel Williams (daughter), Florence Williams (daughter), David Williams (son);1;Adult;Female
@@ -1758,7 +1758,7 @@ GORST;Mr. ;Frederick William;Lost;;Victualling;Crew;British;First Waiter;;;;;;;;
 GOUDER;Mr. ;Charles Francis Vincent (Gontes Cloules);Saved;26;Victualling;Crew;British (Maltese);Waiter;;;;;;overturned lifeboat;;;;;;1;Adult;Male
 GOWAN;Mr. ;G.;Lost;;Victualling;Crew;British;Waiter;;;;;;;;;;;;1;Adult;Male
 GRAINGER;Mr. ;Robert;Saved;;Victualling;Crew;British;Waiter;;;;;;;;;;;;1;Adult;Male
-GRANT;Mr. ;James;Saved;26;Victualling;Crew;British;Saloon Cabin Bed Steward;;;;;;;;;;;;1;Adult;Male
+GRANT;Mr. ;James;Saved;26?;Victualling;Crew;British;Saloon Cabin Bed Steward;;;;;;;;;;;;1;Adult;Male
 GRIENER;Mr. ;Oscar;Saved;;Victualling;Crew;British;Roast Cook;;;;;;;;;;;;1;Adult;Male
 GRIFFITH;Mr. ;George;Saved;;Victualling;Crew;British;Second Waiter;;;;;;;;;;;;1;Adult;Male
 GRIFFITHS;Mr. ;John Humphrey;Saved;38;Victualling;Crew;British;Chief Steward Third Class;;;;;;;;;;;;1;Adult;Male
@@ -1800,7 +1800,7 @@ IVERSON;Mr. ;Ambrose;Lost;;Victualling;Crew;British;Sculleryman;;;;;;;;;;;;1;Adu
 JAMES;Mr. ;Oswald;Lost;;Victualling;Crew;British;First Class Steward;;;;;;;;;;;;1;Adult;Male
 JESSOP;Mr. ;Robert Nelson;Lost;;Victualling;Crew;British;Second Cabin Cabin Bed Steward;;;;;;;;;;;;1;Adult;Male
 JOHNSON;Mr. ;James Andrew Santie;Lost;;Victualling;Crew;British;Assistant Engineers' Mess Steward;;;;;;;;;;;;1;Adult;Male
-JONES;Mr. ;John Frederick Valentine;Saved;54;Victualling;Crew;British;Chief Steward;;;;;;;;;;;;1;Adult;Male
+JONES;Mr. ;John Frederick Valentine;Saved;54?;Victualling;Crew;British;Chief Steward;;;;;;;;;;;;1;Adult;Male
 JONES;Mr. ;Alfred;Lost;;Victualling;Crew;British;Night Watchman;;;;;;;;;;;;1;Adult;Male
 JONES;Mr. ;Charles (Cann Cooper Lann);Lost;;Victualling;Crew;British;Second Butcher;;;;;;;;;;;;1;Adult;Male
 JONES;Mr. ;William;Lost;;Victualling;Crew;British;Second Waiter;;;;;;;;;;;;1;Adult;Male
@@ -1899,7 +1899,7 @@ ROBERTS;Miss;Annie Jane;Lost;35;Victualling;Crew;British;Stewardess;;;;;;;;60;;;
 RONNAN;Mr. ;George;Lost;16;Victualling;Crew;British;Assistant Butcher;;;;;;;;53;;;;1;Minor;Male
 ROSE;Mr. ;William;Saved;;Victualling;Crew;British;Second Waiter;;;;;;;;;;;;1;Adult;Male
 ROSS;Mr. ;Henry;Lost;;Victualling;Crew;British;Barkeeper;;;;;;;;;;;;1;Adult;Male
-ROURKE;Mr. ;Stanley;Saved;21;Victualling;Crew;British;Lift Attendant;;;;;;;;;;;;1;Adult;Male
+ROURKE;Mr. ;Stanley;Saved;21?;Victualling;Crew;British;Lift Attendant;;;;;;;;;;;;1;Adult;Male
 ROWBOTHAM;Mr. ;Harold E. ;Saved;;Victualling;Crew;British;Second Waiter;;;;;;;Heron;;;;;1;Adult;Male
 RUFFELS;Mr. ;William Samuel;Lost;;Victualling;Crew;British;Saloon Cabin Bed Steward;;;;;;;;;;;;1;Adult;Male
 RUSHTON;Mr. ;George;Saved;;Victualling;Crew;British;First Waiter;;;;;;;;;;;;1;Adult;Male
@@ -1916,7 +1916,7 @@ SHAVLEY;Mr. ;Gerald;Saved;;Victualling;Crew;British;Waiter;;;;;;;;;;;;1;Adult;Ma
 SHEIL;Mr. ;Michael S.;Saved;32;Victualling;Crew;British;Saloon Steward;;;;;;;;;;;;1;Adult;Male
 SHEVLAND;Mr. ;John;Lost;;Victualling;Crew;British;Second Waiter;;;;;;;;;;;;1;Adult;Male
 SIMPSON;Mr. ;Malcolm;Saved;34;Victualling;Crew;British;First Waiter;;;;;;;;;;;;1;Adult;Male
-SKAY;Master;Edward;Saved;16;Victualling;Crew;British;Kitchen Porter;;;;;;;;;;;;1;Minor;Male
+SKAY;Master;Edward;Saved;16 ?;Victualling;Crew;British;Kitchen Porter;;;;;;;;;;;;1;Minor;Male
 SLOANE;Mr. ;Leonard Hanson;Lost;;Victualling;Crew;British;Junior Assistant Purser;;;;;;;;;;;;1;Adult;Male
 SMITH;Mr. ;Oliver Barrow;Lost;;Victualling;Crew;British;Ship's Cook;;;;;;;;;;;;1;Adult;Male
 SMITH;Mr. ;William;Saved;;Victualling;Crew;British;First Waiter;;;;;;;;;;;See article, The New York Times, Wednesday, May 26, 1915, page 4, in which he was reported as having said he found two bombs on Deck A just before the ship sailed. The Cunard Line officials ridiculed this idea.;1;Adult;Male
