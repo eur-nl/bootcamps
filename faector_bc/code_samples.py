@@ -33,34 +33,28 @@ print(page_soup.prettify())''',
     10: '''a = courses[0].find_all('a')[0]
 link = a.attrs["href"]
 code = link.split("/")[-1].replace(".htm", "").upper()''',
-    11: '''for block in elective_container.find_all("li", {"class": "category-block__item"}):
-    for course in block.find_all('li', {"class":"accordion__item"}):
-        title = course.find_all('button')[0].text
-        a = course.find_all('a')[0]
-        link = a.attrs["href"]
-        code = link.split("/")[-1].replace(".htm", "").upper()
-        
-        print(code, title)''',
-    12: '''for block in course_container.find_all("li", {"class": "category-block__item"}):
-    for course in block.find_all('li', {"class":"accordion__item"}):
-        title = course.find_all('button')[0].text
-        a = course.find_all('a')[0]
-        link = a.attrs["href"]
-        code = link.split("/")[-1].replace(".htm", "").upper()
-        
-        print(code, title)''',
+    11: '''def print_item(item):
+    title = item.find_all('button')[0].text
+    a = item.find_all('a')[0]
+    link = a.attrs["href"]
+    code = link.split("/")[-1].replace(".htm", "").upper()
+    print(code, title)''',
+    12: '''for block in elective_container.find_all("li", {"class": "category-block__item"}):
+    for elective in block.find_all('li', {"class":"accordion__item"}):
+        print_item(elective)''',
     13: '''for block in course_container.find_all("li", {"class": "category-block__item"}):
     for course in block.find_all('li', {"class":"accordion__item"}):
-        title = course.find_all('button')[0].text
-        try:
-            a = course.find_all('a')[0]
-            link = a.attrs["href"]
-            code = link.split("/")[-1].replace(".htm", "").upper()
-        except:
-            print(title, "doesn't have a code!")
-            continue
-        
-        print(code, title)''',
+        print_item(course)''',
+    14: '''def print_item(item):
+    title = item.find_all('button')[0].text
+    a_list = item.find_all('a')
+    if len(a_list) > 0:
+        a = item.find_all('a')[0]
+        link = a.attrs["href"]
+        code = link.split("/")[-1].replace(".htm", "").upper()
+    else:
+        code = None
+    print(code, title)''',
 }
 
 def add_show_button(index):   
