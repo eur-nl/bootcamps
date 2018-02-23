@@ -13,7 +13,7 @@ def fetch_reviews(page_number):
     url = URL % ((page_number * 10)-10, page_number)
     response = requests.get(url)
     if response.status_code != 200:
-        print 'Error fetching page: %s' % page_number
+        print('Error fetching page: %s' % page_number)
         sys.exit(1)
     return response.content
 
@@ -44,11 +44,11 @@ if __name__ == '__main__':
         if os.path.isfile(reviews_file):
             reviews_data = open(reviews_file).read().decode('utf8')
         else:
-            print 'Fetching page %s' % page_number
+            print('Fetching page %s' % page_number)
             reviews_data = fetch_reviews(page_number)
             open(reviews_file, 'w').write(reviews_data)
             time.sleep(1)
-        print 'Extracting page %s' % page_number
+        print('Extracting page %s' % page_number)
         for review in extract_content(reviews_data):
             row = []
             for col in cols:
