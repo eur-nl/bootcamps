@@ -1,22 +1,44 @@
 Python bootcamps (EUR)
 ===
 
-This Git repository contains the notebooks to be used for the Python
-bootcamps at the Erasmus University Rotterdam.
+This Git repository contains the Jupyter notebooks (to be) used for
+the workshops "Basic Lab Skills for Research Computing" at the Erasmus
+University Rotterdam.
 
-Background
+At present we are working on three workshops:
+
+  - CLI, MarkDown, LaTeX, Pandoc, Git, CSV, textanalysis, intro
+    Jupyter notebooks
+  - Python programming: Basics, textanalysis (NLTK, Spacy), data
+    (Pandas)
+  - SQL: SQLite, Google's BigQuery
+  
+Methodology
 ===
 
-  - We want to introduce programming, using Python, to PhD students.
-  - We want to establish an EUR Python community in order to be able
-    to share knowledge and to provide a distributed form of support
-    for members of the community.
-  - Use a public repository to store the contents of the course.
+Basically, there exist two ways to address the lack of "computer
+literacy" in academia. Teach students and teachers some tricks,
+together with the use of some libraries, to get the results they are
+looking for. Or, take a more fundamental approach: Teach programming
+as a problem solving technique, using pseudo-code, diagrams, and
+notation, based on sound software engineering principles (Touretzky,
+Etter).
+
+We have chosen the latter approach. The reasoning behind this choice
+is simple. Even workshops based upon this approach will not succeed in
+delivering full-fledged programmers and what participants will get out
+of the workshops will differ amongst them. But the bottomline will be
+that they have become better problem solvers and that they have seen
+the tools to successfully communicate with programmers: pseudo-code
+and notation.
   
 Instruments used
 ===
 
-- Anaconda Python distribution (Python 3.5)
+- command line interface
+- unix toolbox
+- Git
+- Anaconda Python distribution (Python 3.7)
 - Jupyter Notebooks
 
 Goals
@@ -27,65 +49,17 @@ Goals
 - Modular, comprehensible, re-usable and testable all come together.
 - Solving problems with the computer can be fun; working together on
   solving these problems doubles the fun.
+- Solving these problems should be based upon sound engineering
+  principles.
 
 Content
 ===
 
-Preliminary content of the bootcamps can be as follows:
-
-Day 1
+Workshop 1
 ---
 
-Intro, short history of Python, characteristics of Python
-Jupyter Notebooks
-
-Python basics I
-
-  - simple expressions
-  - assignment statement
-  - conditional expressions
-  - sets
-  - lists
-  - tuples
-  - and other things to iterate over
-  - dictionaries, comprehensions
-  - defining one-line procedures
-  
-Python basics II
-
-  - Using existing modules
-  - Creating your own modules
-  - Loops and conditional statements
-  - Grouping in Python using indentation
-  - Breaking out of a loop
-  - Reading from a file
-  
-Datalab I: number guessing games (random, keeping track of scores, etc.)
-
-Datalab II: cookbook.py (wordfrequency in Jane Austen's novel "Emma")
-  
-Python more in depth: More on numbers & text
-
-Datalab III:
-
-Aggregating data: Scraping, etc.
-
-Day 2
+Workshop 2
 ---
 
-CSV files, Pandas, data cleaning: tidy-data
-Text analysis with NLTK and/or textBlob, data cleaning
-
-SQL
-BigQuery, visualizations
-
-
-Day 3
+Workshop 3
 ---
-
-Morning: Wrap-up, evaluation, etc.
-
-Extras
----
-
-- Pointers to online resources
