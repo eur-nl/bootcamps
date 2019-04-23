@@ -4,3 +4,7 @@
 output/*
 **/*.html
 **/*.nbconvert.ipynb
+*.fdb_latexmk
+*.fls
+*.pdf
+*.tex
