@@ -1,0 +1,10 @@
+*This notebook is based on the one that contained an excerpt from the
+ [Whirlwind Tour of
+ Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp)
+ by Jake VanderPlas; the content is available [on
+ GitHub](https://github.com/eur-nl/bootcamps).*
+
+<!--NAVIGATION-->
+< [How to Run Python Code](01-How-to-Run-Python-Code.ipynb) | [Contents](Index.ipynb) | [Basic Python Semantics: Variables and Objects](03-Semantics-Variables.ipynb) >
+<!--Solutions to Exercises-->
+[Solutions to exercises](02-solutions.ipynb)
