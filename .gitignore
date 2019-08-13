@@ -5,3 +5,4 @@ output/*
 **/*.html
 **/*.nbconvert.ipynb
 *pyc
+.Rhistory
